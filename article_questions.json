@@ -1,0 +1,1850 @@
+[
+    {
+        "a": "Ausschließlich das Nettoarbeitseinkommen sowie Betriebsrenten, wobei der Abgleich durch eine jährliche manuelle Einzelfallprüfung erfolgt.",
+        "b": "Das zu versteuernde Einkommen, der steuerfreie Anteil der Rente und sämtliche Kapitalerträge, abgeglichen durch einen automatisierten elektronischen Datenaustausch zwischen Rentenversicherung und Finanzbehörden.",
+        "c": "Alle staatlichen Transferleistungen und vorhandenes Vermögen, welche über eine verpflichtende notarielle Erklärung nachgewiesen werden müssen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/ergebnisse-einigung-grundrente-101.html",
+        "question": "Welche Einkommenskomponenten werden bei der Prüfung des Grundrentenanspruchs für Alleinstehende bis zur vollen Auszahlungsgrenze berücksichtigt, und auf welchem Weg erfolgt der Abgleich zur Vermeidung ungerechtfertigter Leistungen?"
+    },
+    {
+        "a": "Ein signifikanter Anteil der Naturschutzgebiete beherbergt selbst intensiv genutzte Ackerflächen.",
+        "b": "Die meisten Schutzgebiete sind von so geringer Größe, dass sie keine ausreichend großen Populationen für den Artenerhalt aufrechterhalten können.",
+        "c": "Das Wanderverhalten von Insekten überwindet die Grenzen von Schutzgebieten weitaus seltener als bisher angenommen, wodurch Populationen isoliert werden.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wissen/klima/insekten-vielfalt-naturschutzgebiete-100.html",
+        "question": "Welche unerwartete Beobachtung bezüglich der Landnutzung innerhalb von Schutzgebieten wurde durch eine groß angelegte Studie zur Insektenvielfalt in Deutschland ans Licht gebracht, die die Wirksamkeit bisheriger Schutzmaßnahmen in Frage stellt?"
+    },
+    {
+        "a": "Die extrem hohen Kosten pro Tonne im Vergleich zum Landweg und die mangelnde Zielgenauigkeit, die dazu führt, dass die Hilfe oft nicht die bedürftigsten Personen erreicht.",
+        "b": "Eine signifikant erhöhte Gefahr von Beschädigungen der Hilfsgüter beim Aufprall, wodurch ein Großteil der Lieferungen unbrauchbar wird.",
+        "c": "Die Notwendigkeit komplexer internationaler Koordinationsmechanismen, die zu langen Verzögerungen bei der Bereitstellung der Hilfe führen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/asien/gazastreifen-hilfslieferungen-zivilisten-100.html",
+        "question": "Welche wesentlichen Nachteile werden von humanitären Experten im Vergleich zu anderen Methoden bei der Bereitstellung von Hilfsgütern durch Luftabwürfe hervorgehoben?"
+    },
+    {
+        "a": "Die Schaffung eines zentralisierten europäischen Asylamtes.",
+        "b": "Die verbindliche Verteilung von Asylsuchenden über feste Quoten.",
+        "c": "Die Einführung einer obligatorischen EU-Außengrenzschutzmission.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/innenminister-fluechtlinge-105.html",
+        "question": "Welcher spezifische Vorschlag der EU-Kommission stieß bei mehreren Mitgliedsstaaten auf erheblichen Widerstand und verhinderte eine Einigung bei der Verteilung von Flüchtlingen?"
+    },
+    {
+        "a": "Die massive Aufrüstung konventioneller Streitkräfte und die mangelnde Kooperation bei der Terrorismusbekämpfung.",
+        "b": "Das ballistische Raketenprogramm und die regionale militärische Einflussnahme.",
+        "c": "Der fehlende Beitritt zu internationalen Umweltabkommen und die ungeklärte Herkunft von Uranbeständen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/asien/israel-iran-atomabkommen-101.html",
+        "question": "Welche zusätzlichen Aspekte der iranischen Politik, über das Nuklearprogramm hinaus, sind aus der Sicht Israels kritisch und werden im Kontext eines Atomabkommens als unzureichend adressiert betrachtet?"
+    },
+    {
+        "a": "Mittels eines Vorgehens, das entschlossenen Widerstand gegen Rechtsverletzungen, verbesserten Schutz vor Destabilisierungsversuchen und selektive Zusammenarbeit in bestimmten Politikfeldern umfasst.",
+        "b": "Durch eine Strategie der konsequenten Isolation, der Ausweitung von Wirtschaftssanktionen und der Unterstützung oppositioneller Bewegungen.",
+        "c": "Durch die Einrichtung einer gemeinsamen Sicherheitszone, die Intensivierung militärischer Zusammenarbeit mit angrenzenden NATO-Staaten und den Abbruch diplomatischer Kontakte.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/europa/eu-gipfel-themen-101.html",
+        "question": "Welchen dreigliedrigen Ansatz verfolgt die Europäische Union, um ihre Beziehungen zu einem östlichen Nachbarstaat zu gestalten, insbesondere angesichts wiederkehrender Provokationen und Konflikte?"
+    },
+    {
+        "a": "Die Mission sollte sich auf die Überwachung der Waffenstillstandslinie konzentrieren, um die direkten militärischen Auseinandersetzungen zu minimieren.",
+        "b": "Die Mission müsse das gesamte Konfliktgebiet abdecken und besonders die ukrainisch-russische Grenze einschließen, um den Zustrom von Kämpfern und Material zu stoppen.",
+        "c": "Die UN-Mitarbeiter sollten vorrangig in den von Separatisten kontrollierten Gebieten stationiert werden, um humanitäre Hilfe zu leisten und die Bevölkerung zu schützen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/ukraine-minsker-abkommen-103.html",
+        "question": "Welche Position vertrat Bundesaußenminister Sigmar Gabriel bezüglich des Einsatzortes einer potenziellen UN-Friedensmission in der Ostukraine, um eine faktische Grenzziehung zu vermeiden und die Unterbindung von Nachschub zu gewährleisten?"
+    },
+    {
+        "a": "Die Klage wurde abgewiesen, da keine Beweise für einen angeblichen Betrug vorgelegt wurden, und die Antragsteller wurden wegen böswilliger Prozessführung mit einer Geldstrafe belegt.",
+        "b": "Die Klage wurde abgewiesen, weil sie außerhalb der gesetzlich vorgeschriebenen Frist eingereicht wurde, was zur Verwarnung der Partei führte.",
+        "c": "Die Klage wurde abgelehnt, weil die betroffene Wahl bereits international anerkannt war, und die Partei musste die Gerichtskosten tragen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-153.html",
+        "question": "Welche zentrale Begründung führte zur Abweisung einer gerichtlichen Anfechtung des Ergebnisses einer südamerikanischen Präsidentschaftswahl durch die zuständige Justizbehörde, und welche unmittelbare Konsequenz ergab sich daraus für die anfechtende Partei?"
+    },
+    {
+        "a": "Ein Rückgang bei flüssigen und festen Brennstoffen stand einer Preissteigerung bei Strom und Gas gegenüber.",
+        "b": "Alle Energiepreisbestandteile, einschließlich Strom und Gas, verzeichneten einen deutlichen Preisverfall.",
+        "c": "Die Preissenkung bei Strom war der dominierende Faktor für den Gesamtrückgang der Energiekosten.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/inflation-ts-102.html",
+        "question": "Welches Muster charakterisierte die Preisentwicklung innerhalb des Energiesektors, das trotz eines allgemeinen Rückgangs der Energiepreise die Inflationsrate in Deutschland im Mai 2014 prägte?"
+    },
+    {
+        "a": "Der Verlust der Regierungsbeteiligung seiner Partei in den Niederlanden, wodurch er voraussichtlich nicht mehr Finanzminister sein würde.",
+        "b": "Eine interne Abstimmung innerhalb der Eurogruppe, die bereits vor dem Interview seine Ablösung forderte.",
+        "c": "Die Weigerung wichtiger Mitgliedstaaten, seine Kandidatur für eine weitere Amtszeit zu unterstützen, aufgrund von Meinungsverschiedenheiten in der Wirtschaftspolitik.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/eu-dijsselbloem-101.html",
+        "question": "Welche spezifische politische Entwicklung in seinem Heimatland bedrohte die Möglichkeit von Jeroen Dijsselbloem, seine Funktion als Eurogruppen-Vorsitzender fortzuführen, unabhängig von der Kritik an seinen Äußerungen?"
+    },
+    {
+        "a": "Die vollständige Abschaffung der Erbschaftssteuer.",
+        "b": "Eine signifikante Reduzierung des Grundfreibetrags bei der Einkommenssteuer.",
+        "c": "Die Einführung einer Finanztransaktionssteuer auf alle Kapitalgeschäfte.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/afd-249.html",
+        "question": "Welche spezifische steuerpolitische Forderung einer politischen Partei wird in einem aktuellen Programmentwurf genannt, die laut Einschätzung von Beobachtern die Vermögensungleichheit potenziell verschärfen könnte?"
+    },
+    {
+        "a": "Es sei denkbar, über die Zeitachsen der Umsetzung zu verhandeln, solange keine inhaltlichen substanziellen Änderungen an den Sparauflagen vorgenommen würden.",
+        "b": "Die strikte Einhaltung aller ursprünglichen Fristen sei unabdingbar, um das Vertrauen der internationalen Partner nicht zu gefährden.",
+        "c": "Eine umfassende Neuaushandlung des gesamten Reformprogramms sei notwendig, um die soziale Akzeptanz zu sichern und Wachstum zu ermöglichen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/wahl-griechenland-ts-100.html",
+        "question": "Angesichts der europaweiten Erleichterung über ein bestimmtes Wahlergebnis in einem südeuropäischen Land äußerten verschiedene europäische Politiker Erwartungen und Bedingungen. Welche Position vertrat eine prominente deutsche Stimme hinsichtlich der Flexibilität bei der Umsetzung der erforderlichen Reformen?"
+    },
+    {
+        "a": "Die Sicherstellung des Nachschubs für die NATO-Truppen in Afghanistan.",
+        "b": "Die Gewährleistung der Sicherheit der pakistanischen Nuklearwaffen.",
+        "c": "Die Eindämmung des wachsenden Einflusses Indiens in der Region.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/pakistan-ts-182.html",
+        "question": "Welche strategische Priorität begrenzt die Möglichkeiten der USA, umfassenden Druck auf Pakistan auszuüben, trotz vermuteter Verstrickungen von Teilen des pakistanischen Militärs mit extremistischen Gruppen?"
+    },
+    {
+        "a": "Der Umstand, dass aktuell nur etwa ein Drittel aller freien Stellen aus den Mitgliedsstaaten über EURES eingestellt werden.",
+        "b": "Die geringe Vermittlungsquote von Arbeitskräften in von Fachkräftemangel betroffene Branchen, die unter 10 Prozent liegt.",
+        "c": "Die unzureichende Nutzerzahl bei den Arbeitgebern aus dem Mittelstand, welche EURES für ihre Personalbeschaffung nutzen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/eures-ts-100.html",
+        "question": "Welche spezifische statistische Unterperformance des europäischen Stellenportals EURES ist ein zentraler Grund für die von der EU-Kommission angestrebten Verbesserungen?"
+    },
+    {
+        "a": "Die fortgesetzte Weigerung einiger Staaten, sich an den notwendigen Eigenkapitalerhöhungen zu beteiligen.",
+        "b": "Das mangelnde Angebot an qualitativ hochwertigen und wirtschaftlich überzeugenden Investitionsprojekten mit hoher Wirkung.",
+        "c": "Die Gefahr eines sinkenden Kreditratings der EIB, welches den Zugang zu privaten Kapitalmärkten erschweren könnte.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/eu-investitionsbank-ts-100.html",
+        "question": "Trotz der beabsichtigten Kapitalerhöhung, welche zentrale Hürde identifiziert der Präsident der Europäischen Investitionsbank (EIB) für die effektive Umsetzung von Wachstumsimpulsen, insbesondere in den besonders bedürftigen Mitgliedstaaten?"
+    },
+    {
+        "a": "Die vergleichende Betrachtung der überdurchschnittlichen Pro-Kopf-Emissionen im globalen Kontext sowie die historisch kumulierten Emissionen seit Beginn der Industrialisierung, die Deutschland als bedeutenden Verursacher ausweisen.",
+        "b": "Die alleinige Konzentration auf die aktuellen Jahresemissionen vernachlässigt die geostrategische Bedeutung Deutschlands als technologischen Vorreiter, dessen klimapolitische Entscheidungen eine unverzichtbare Signalwirkung für andere Staaten entfalten.",
+        "c": "Die Vernachlässigung der Tatsache, dass ein Großteil der Emissionen im globalen Süden durch die Produktion für westliche Industrieländer verursacht wird, wodurch Deutschland indirekt für einen höheren Anteil verantwortlich ist.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/faktenfinder/kontext/klimawandel-co2-ausstoss-100.html",
+        "question": "Trotz eines prozentual geringen Anteils an den weltweiten jährlichen CO2-Emissionen wird die Argumentation, Deutschlands Klimaschutzmaßnahmen seien unerheblich, von Fachexperten als irreführend kritisiert. Welches zentrale Begründungsgeflecht wird dabei maßgeblich herangezogen?"
+    },
+    {
+        "a": "Die Systeme würden die Monetarisierung von urheberrechtlich geschützten Inhalten für kleine Künstler unmöglich machen.",
+        "b": "Es bestünde die Gefahr einer Zunahme von Serverausfällen aufgrund der hohen Rechenlast durch die ständige Inhaltsanalyse.",
+        "c": "Die Technologie könnte fälschlicherweise auch legale, kreative oder satirische Inhalte blockieren, wie beispielsweise Internet-Memes.",
+        "correct_answer": "c",
+        "id": "https://www.tagesschau.de/ausland/urheberrecht-eu-parlament-101.html",
+        "question": "Welche Hauptsorge äußerten Kritiker in Bezug auf die geplante Einführung von automatisierten Inhaltsprüfungssystemen im Rahmen der diskutierten EU-Urheberrechtsreform?"
+    },
+    {
+        "a": "Die Zustimmung des Parlaments der Deutschsprachigen Gemeinschaft, die als vierte Region Belgiens ein Vetorecht besaß.",
+        "b": "Die Zustimmung aller drei Regionalregierungen (Flandern, Wallonie und Brüssel-Hauptstadt), um dem Premierminister die erforderliche Vollmacht zu erteilen.",
+        "c": "Eine landesweite Volksbefragung, da das Abkommen substanzielle Auswirkungen auf die föderale Kompetenzverteilung gehabt hätte.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/ceta-bruessel-103.html",
+        "question": "Welche besondere interne Bedingung musste in Belgien erfüllt sein, damit der Premierminister das CETA-Abkommen im Namen des Landes unterzeichnen konnte?"
+    },
+    {
+        "a": "Eine massive Reduzierung der Schlepperaktivitäten durch internationale Strafverfolgungsmaßnahmen im Mittelmeerraum.",
+        "b": "Die verstärkte Unterstützung der libyschen Küstenwache durch Italien zur Verhinderung der Überfahrten.",
+        "c": "Die erhöhte Zahl erfolgreicher Rückführungen von Migranten aus Italien in ihre Herkunftsländer durch bilaterale Abkommen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/fluechtlinge-un-105.html",
+        "question": "Welche spezifische Maßnahme wird in Berichten zur europäischen Migrationsdynamik des ersten Halbjahres 2018 als primärer Grund für den signifikanten Rückgang der Migrantenankünfte über die zentrale Mittelmeerroute nach Italien genannt?"
+    },
+    {
+        "a": "Die vorhergehende staatliche Kampagne zur Diskreditierung ausländischer Impfstoffe, die das Vertrauen der Bevölkerung in diese erschütterte.",
+        "b": "Die fehlende Bereitschaft westlicher Pharmaunternehmen, ihre mRNA-Technologie mit China zu teilen.",
+        "c": "Die unzureichende Produktionskapazität Chinas, um zusätzlich zu den eigenen Impfstoffen auch mRNA-Vakzine herzustellen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/asien/china-null-covid-strategie-101.html",
+        "question": "Welcher primäre Faktor erschwert Chinas strategischen Übergang zu international wirksameren Impfstoffen im Kampf gegen die Delta-Variante?"
+    },
+    {
+        "a": "Die zunehmende Bedeutung eines grundsätzlichen Widerstands („dagegen sein“) gegenüber anderen politischen Erwägungen, der die Bedenken bezüglich extremistischer Labels überlagert.",
+        "b": "Eine breite gesellschaftliche Neubewertung des Begriffs \"rechtsextrem\", der dadurch seine negative Konnotation verloren hat.",
+        "c": "Eine gezielte Desinformationskampagne, die die historischen Implikationen rechtsextremer Ideologien systematisch relativiert und so deren Anziehungskraft steigert.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/europa/oesterreich-fpoe-identitaere-100.html",
+        "question": "Was wird von Experten als wesentlicher Faktor dafür identifiziert, dass die Akzeptanz von als rechtsextrem eingestuften politischen Positionen innerhalb bestimmter Wählergruppen nicht mehr zu einer Abkehr führt?"
+    },
+    {
+        "a": "Schwimmen erfordert 20 Minuten, Joggen 40 Minuten und Radfahren 60 Minuten.",
+        "b": "Schwimmen erfordert 30 Minuten, Joggen 30 Minuten und Radfahren 45 Minuten.",
+        "c": "Schwimmen erfordert 40 Minuten, Joggen 20 Minuten und Radfahren 30 Minuten.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wissen/schwimmen-hirnleistung-100.html",
+        "question": "Wie unterscheidet sich die empfohlene Mindestdauer von intensivem Schwimmtraining im Vergleich zu Joggen und Radfahren, um laut Experten den gleichen positiven Effekt auf die Hirnleistung zu erzielen?"
+    },
+    {
+        "a": "Stadtstaaten müssen zusätzlich kommunale Aufgaben wahrnehmen, die in Flächenländern von Gemeinden und Gemeindeverbänden getragen werden.",
+        "b": "Sie sind aufgrund ihrer dichteren Besiedelung stärker von wirtschaftlichen Einbußen durch Pandemiemaßnahmen betroffen, was höhere Ausgleichszahlungen erfordert.",
+        "c": "Die Tourismusbranche in Stadtstaaten hat in der Krise besonders hohe finanzielle Hilfspakete benötigt, welche die Pro-Kopf-Verschuldung zusätzlich belasten.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/coronapandemie-schulden-101.html",
+        "question": "Welcher spezifische Faktor wird im Zusammenhang mit der Pro-Kopf-Verschuldung als Erklärung für die überdurchschnittlich hohen Werte in Stadtstaaten im Vergleich zu Flächenländern genannt?"
+    },
+    {
+        "a": "Sanktionen, die sich gezielt auf den ehemaligen Präsidenten Baschar al-Assad und sein direktes Umfeld beziehen, sowie auf Personen, die Menschenrechtsverletzungen begangen haben.",
+        "b": "Importverbote für landwirtschaftliche Erzeugnisse aus Syrien zur Unterstützung der lokalen Wirtschaft.",
+        "c": "Finanzsanktionen gegen die syrische Zentralbank zur Unterbindung des internationalen Zahlungsverkehrs.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/amerika/usa-syrien-trump-100.html",
+        "question": "Trotz der generellen Aufhebung von US-Sanktionen gegen Syrien durch ein Dekret von Präsident Trump, welche spezifischen Sanktionen bleiben weiterhin in Kraft?"
+    },
+    {
+        "a": "Durch die Einrichtung zahlreicher gefälschter Profile, auch unter Vorspiegelung einer gegnerischen Identität, zur massenhaften Beteiligung an Diskussionen.",
+        "b": "Durch die strategische Platzierung von bezahlten Werbeanzeigen in sozialen Medien, die direkt auf ihre Agitationsinhalte verlinkten.",
+        "c": "Durch die Entwicklung und den Einsatz hochentwickelter KI-gesteuerter Chatbots, die menschliche Interaktion perfekt simulierten und automatisch Beiträge generierten.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/faktenfinder/manipulation-wahlkampf-101.html",
+        "question": "Welche spezifische Methode nutzten rechtsradikale Online-Aktivisten, um ihre Einflussnahme in sozialen Netzwerken zu skalieren und gleichzeitig gezielt oppositionelle Kräfte zu diskreditieren?"
+    },
+    {
+        "a": "Die frühere Bewegung zielte darauf ab, bestehende Parteien extern zu beeinflussen, während die aktuelle Initiative auf die direkte parlamentarische Vertretung als eigenständige Partei abzielt.",
+        "b": "Die frühere Bewegung konzentrierte sich hauptsächlich auf soziale Gerechtigkeit, wohingegen die neue Partei ein breiteres Spektrum an Wirtschafts- und Außenpolitik abdecken wird.",
+        "c": "Die frühere Bewegung war als temporärer Protest gedacht, während das aktuelle Projekt auf langfristige politische Gestaltung durch Koalitionen ausgelegt ist.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/innenpolitik/wagenknecht-tagesthemen-interview-100.html",
+        "question": "Welche grundlegende Differenz benannte Sahra Wagenknecht bezüglich der Zielsetzung ihrer früheren politischen Bewegung \"Aufstehen\" und ihrer aktuellen Initiative zur Gründung einer neuen Partei?"
+    },
+    {
+        "a": "Die Initiierung sollte primär durch eine externe, möglicherweise außerirdische \"Allianz\" erfolgen.",
+        "b": "Die Aktivierung des Umsturzes würde durch einen landesweiten, koordinierten Aufstand ehemaliger Polizeikräfte und Militärangehöriger erfolgen.",
+        "c": "Ein vorab festgelegtes Datum würde durch die Offenlegung geheimer Regierungsdokumente in den Medien den finalen Anstoß geben.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/investigativ/ndr/reichsbuerger-prinz-reuss-102.html",
+        "question": "In Bezug auf eine mutmaßliche Vereinigung, die einen Staatsumsturz plante, welche besondere Erwartung hegten einige ihrer Mitglieder hinsichtlich der Auslösung des 'Tag X'?"
+    },
+    {
+        "a": "Die Stärkung der Gemeinschaftsmethode, welche den EU-Institutionen eine zentrale Rolle in der Entscheidungsfindung zuweist.",
+        "b": "Die Gewährung vollständiger Autonomie für die Euro-Staaten bei der Festlegung ihrer Wirtschafts- und Finanzpolitik.",
+        "c": "Die Einführung von bilateralen Abkommen zwischen den Euro-Staaten und den Nicht-Euro-Staaten zur Konfliktlösung.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/barroso-ts-152.html",
+        "question": "Welches Prinzip sah der damalige EU-Kommissionspräsident als maßgeblich an, um eine potenzielle Spaltung Europas durch die Entwicklung eigenständiger Strukturen innerhalb der Eurozone abzuwenden und die Einheit des Binnenmarktes zu bewahren?"
+    },
+    {
+        "a": "400 Millionen Euro",
+        "b": "800 Millionen Euro",
+        "c": "600 Millionen Euro",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/opel-ts-354.html",
+        "question": "Nach der Ablehnung zentraler staatlicher Finanzierungshilfen und der Erwartung teilweiser regionaler Unterstützung für einen Automobilhersteller, welcher spezifische Geldbetrag wurde laut der Unternehmensführung noch als fehlend für die notwendigen Bürgschaften beziffert?"
+    },
+    {
+        "a": "Basierend auf dem gewichteten durchschnittlichen Börsenkurs der zwei Wochen vor dem Beschluss über die Enteignung.",
+        "b": "Anhand des letzten notierten Börsenkurses unmittelbar vor der offiziellen Ankündigung der Enteignungsabsicht.",
+        "c": "Durch eine Bewertung des fairen Unternehmenswerts der Bank durch eine externe Wirtschaftsprüfungsgesellschaft.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/bankenkrise-ts-112.html",
+        "question": "Nach welcher Methode würde in der Regel die Entschädigung für Aktionäre von Finanzinstituten, deren Enteignung zur Sicherung der Finanzmarktstabilität vorgenommen wird, bemessen?"
+    },
+    {
+        "a": "Ihre außergewöhnliche Akustik, die sie zu einem bevorzugten Ort für Chorkonzerte machte.",
+        "b": "Ihre historischen Buntglasfenster und die besondere Atmosphäre, die besonders Hochzeitspaare anzog.",
+        "c": "Die integrierte Sternwarte, die für Himmelsbeobachtungen genutzt wurde und für Bildungsprogramme bekannt war.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/europa/amsterdam-vondelkirche-feuer-100.html",
+        "question": "Was war ein herausragendes Merkmal der Amsterdamer Vondelkirche, das sie vor ihrer Zerstörung besonders für bestimmte gesellschaftliche Anlässe attraktiv machte?"
+    },
+    {
+        "a": "Malta",
+        "b": "Zypern",
+        "c": "Slowakei",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/schengen-ts-112.html",
+        "question": "In the context of the expansion of the European zone for border-free travel at the end of 2007, which country, despite being a designated member for this expansion, chose to defer its full participation to a later date?"
+    },
+    {
+        "a": "Die Hersteller berufen sich auf den Schutz geistigen Eigentums und Patentrechte, die vorrangig behandelt werden.",
+        "b": "Es fehlt gegenwärtig an einer spezifischen europäischen Verordnung, die die elektronische Bereitstellung dieser Daten zwingend vorschreibt.",
+        "c": "Technische Kompatibilitätsprobleme und uneinheitliche Datenformate verhindern einen automatisierten Datenaustausch zwischen Herstellern und freien Händlern.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/eugh-autoersatzteile-101.html",
+        "question": "Was ist der entscheidende juristische Grund, warum freien Werkstätten derzeit noch keine umfassenden elektronischen Informationen zu Autoersatzteilen von Herstellern zustehen, diese Situation sich aber voraussichtlich ab Herbst 2020 ändern wird?"
+    },
+    {
+        "a": "Unverarbeitete, gefrorene Fleischteile, die direkt an den Endverbraucher verkauft werden.",
+        "b": "Fleischprodukte wie Würste, die aus verschiedenen Fleischstücken verarbeitet wurden.",
+        "c": "Fleisch, das als Zutat in Fertiggerichten mit weniger als 10% Gesamtanteil enthalten ist.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/lebensmittel-ts-108.html",
+        "question": "Welche spezifische Kategorie von Fleischprodukten ist gemäß den neuen EU-Vorschriften von der erweiterten Pflicht zur Herkunftsangabe ausgenommen, die für die meisten anderen Fleischarten gilt?"
+    },
+    {
+        "a": "Der Kongress kann durch eine einfache Mehrheit in beiden Kammern eine offizielle Rüge aussprechen, die das Dekret für ungültig erklärt.",
+        "b": "Der Kongress kann durch ein Gesetz die für die Ausführung des Dekrets benötigten finanziellen Mittel sperren.",
+        "c": "Der Kongress kann ein Referendum einleiten, um die Wähler über die Gültigkeit des Dekrets abstimmen zu lassen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/praesidentendekret-101.html",
+        "question": "Welche alternative Methode kann der US-Kongress anwenden, um die Implementierung einer präsidialen Anordnung (Executive Order) zu verhindern, ohne diese direkt mit einer qualifizierten Mehrheit aufzuheben?"
+    },
+    {
+        "a": "Eine Kombination aus umfassenden Privatisierungen von Staatsbetrieben und einer grundlegenden Reform des Arbeitsmarktes.",
+        "b": "Pensionskürzungen und Steuererhöhungen, die jeweils ein Volumen von 1,8 Milliarden Euro umfassten.",
+        "c": "Die Einführung einer neuen Vermögenssteuer für Großkonzerne und eine signifikante Kürzung der Militärausgaben.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/griechenland-1403.html",
+        "question": "Welche zwei Hauptkomponenten umfasste das zum Zeitpunkt der Berichterstattung im griechischen Parlament zur Abstimmung stehende Sparpaket, um die Bedingungen für internationale Finanzhilfen zu erfüllen?"
+    },
+    {
+        "a": "Die als unzureichend empfundene Entwicklung der Reallöhne im Vergleich zu den nominalen Lohnsteigerungen.",
+        "b": "Die signifikante Abweichung zwischen der offiziell ausgewiesenen Inflationsrate und dem gefühlten Preisanstieg bei den Bürgern.",
+        "c": "Die Unsicherheit auf dem Arbeitsmarkt, ausgelöst durch strukturelle Veränderungen in traditionellen Industriezweigen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-ts-688.html",
+        "question": "Trotz anhaltenden offiziellen Wirtschaftswachstums empfindet ein Großteil der Bevölkerung keine Vorteile des Aufschwungs. Welcher ökonomische Faktor wird in der Analyse als wesentliche Ursache für diese Diskrepanz zwischen statistischer Entwicklung und persönlicher Wahrnehmung sowie für das veränderte Konsumverhalten genannt?"
+    },
+    {
+        "a": "Die Universität, an der sie lehrte, richtete für sie einen neuen Lehrstuhl im Fach Religionsgeschichte ein, nachdem ihr die kirchliche Lehrbefugnis entzogen wurde.",
+        "b": "Ihr wurde lediglich die weitere Lehrtätigkeit in dogmatischer Theologie untersagt, ihre Position in anderen theologischen Disziplinen blieb jedoch bestehen.",
+        "c": "Sie musste ihre akademische Laufbahn vollständig beenden und widmete sich fortan ausschließlich der publizistischen Tätigkeit außerhalb der Hochschulen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/uta-ranke-heinemann-nachruf-101.html",
+        "question": "Welche direkte akademische Folge hatte die kircheninterne Entscheidung für eine prominente Theologin in den 1980er-Jahren, die sich kritisch zur Dogmatik äußerte?"
+    },
+    {
+        "a": "Die vertragliche Pflicht zur Aufrechterhaltung des Betriebsablaufs ohne Störungen durch Krankheit.",
+        "b": "Die Fürsorgepflicht des Arbeitgebers zum Schutz der gesamten Belegschaft vor gesundheitlichen Risiken.",
+        "c": "Das Direktionsrecht des Arbeitgebers zur Gestaltung der Arbeitsbedingungen im Interesse der Produktivität.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-impfen-dienstanweisung-101.html",
+        "question": "Nach deutschem Arbeitsrecht, welche primäre Verpflichtung könnte einem Arbeitgeber unter bestimmten Bedingungen gestatten, unterschiedliche Regelungen für ungeimpfte Angestellte zu erlassen, ohne eine direkte Impfpflicht zu verhängen?"
+    },
+    {
+        "a": "Seine Anwaltskanzlei verwaltete Offshore-Firmen für mehrere in Korruption verwickelte Funktionäre, während er selbst Mitglied der FIFA-Ethikkommission war.",
+        "b": "Er nutzte seine Position, um Marketingrechte für große Turniere in Südamerika persönlich zu veräußern und dabei Provisionen zu kassieren.",
+        "c": "Er entwickelte ein System zur anonymen Kreditvergabe an Fußballvereine, in denen er zuvor als Spieler oder Präsident tätig gewesen war.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/panamapapers-119.html",
+        "question": "Welche besondere Interessenskollision wurde im Zuge der 'PanamaPapers' bei einem hochrangigen uruguayischen Akteur im internationalen Fußballsektor aufgedeckt?"
+    },
+    {
+        "a": "Die langfristige Erosion der genetischen Vielfalt innerhalb der Zuchtbestände.",
+        "b": "Die erhöhte Anfälligkeit geklonter Tiere für Krankheiten und Schmerzen direkt nach der Geburt.",
+        "c": "Die grundsätzliche Infragestellung der natürlichen Reproduktionsprozesse durch menschliches Eingreifen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/klonfleisch-ts-108.html",
+        "question": "Welches Problem wird aus Sicht des Tierschutzes als maßgeblicher ethischer Einwand gegen die Klonierung von Nutztieren angeführt?"
+    },
+    {
+        "a": "Rüstungskontrolle und die vollständige Nutzung bestehender militärischer Kommunikationskanäle zur Förderung von Transparenz.",
+        "b": "Eine umfassende Neugestaltung der europäischen Sicherheitsarchitektur unter Einbeziehung russischer Interessen.",
+        "c": "Die Reduzierung der NATO-Truppenpräsenz in den östlichen Bündnisstaaten auf das Niveau vor 1997.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/russland-usa-nato-antworten-101.html",
+        "question": "Welcher Bereich der internationalen Sicherheit wurde von den USA und der NATO im Kontext der russischen Forderungen als potenzieller Verhandlungspunkt genannt, obwohl Russlands Hauptforderung nach einem Ende der NATO-Erweiterung abgelehnt wurde?"
+    },
+    {
+        "a": "Die Huthi-Bewegung",
+        "b": "Der Islamische Staat (IS)",
+        "c": "Lokale Stammesmilizen, die Ex-Präsident Saleh unterstützten",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/hintergrund-machtkampf-jemen-101.html",
+        "question": "Obwohl bestimmte extremistische Gruppierungen ähnliche ideologische Fundamente teilen, können sie tiefgreifende Rivalitäten aufweisen. Welche dieser Gruppierungen, die im Jemen aktiv waren, stand in einem bekannten Konflikt mit Al-Kaida, trotz ähnlicher extremistischer Ansichten?"
+    },
+    {
+        "a": "Jede Ausweisungsentscheidung muss auf einer individuellen Prüfung der persönlichen Umstände basieren und darf keinen Automatismus darstellen.",
+        "b": "Die Ausweisung ist zulässig, sobald die betroffenen Personen keine feste Arbeitsstelle oder ausreichende Krankenversicherung nachweisen können.",
+        "c": "Es kann eine Gruppenentscheidung zur Ausweisung getroffen werden, wenn eine größere Anzahl von Personen die Bedingungen für den Verbleib nicht erfüllt.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/romaausweisung-ts-100.html",
+        "question": "Welche Anforderung ist bei der Ausweisung von EU-Bürgern aus einem anderen EU-Mitgliedstaat nach Ablauf der ersten drei Aufenthaltsmonate gemäß EU-Recht zwingend zu beachten?"
+    },
+    {
+        "a": "Die vollständige Befreiung inländischer Fahrzeuge von der Abgabe durch eine pauschale Erstattung über die Mineralölsteuer.",
+        "b": "Die effektive Neutralisierung der Abgabenlast für inländische Fahrzeughalter durch einen entsprechenden Abzug von der Kraftfahrzeugsteuer.",
+        "c": "Das Fehlen jeglicher kurzfristiger Abgabeoptionen für ausländische Verkehrsteilnehmer, was diese unverhältnismäßig benachteiligte.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/klage-pkw-maut-101.html",
+        "question": "Welches spezifische Merkmal einer nationalen Abgabe für die Nutzung von Verkehrsinfrastruktur wurde von einer supranationalen Institution als diskriminierend beanstandet und führte zu einer Klage?"
+    },
+    {
+        "a": "Eine prognostizierte Verringerung der privaten Nachfrage nach Bauleistungen, die den staatlichen Impuls kompensieren würde.",
+        "b": "Die Einschätzung, dass die Kapazitäten der Bauunternehmen nicht ausreichen würden und dies zu einem Anstieg der Baupreise führen könnte.",
+        "c": "Die Befürchtung, dass die Steuerentlastungen des Pakets nicht bei den Baubranchen ankämen, sondern in andere Sektoren fließen würden.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/konjunktur-ts-130.html",
+        "question": "Trotz der erwarteten positiven Impulse für die Bauwirtschaft durch das Konjunkturpaket, welche Herausforderung wurde von den Wirtschaftsinstituten hervorgehoben, die den Gesamteffekt des Pakets als geringer als erwartet einschätzte?"
+    },
+    {
+        "a": "Eine knappe Mehrheit befürwortete die Beteiligung an Militäreinsätzen, während die Aufnahme von Flüchtlingen mehrheitlich abgelehnt wurde.",
+        "b": "Beide Aspekte, Militäreinsätze und Flüchtlingsaufnahme, erfuhren eine mehrheitliche Ablehnung.",
+        "c": "Sowohl die Beteiligung an Militäreinsätzen als auch die Aufnahme von Flüchtlingen fand eine klare mehrheitliche Zustimmung.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/deutschlandtrend/momadtrend-ts-100.html",
+        "question": "In einer Umfrage zur deutschen Außen- und Migrationspolitik, welche unterschiedlichen Meinungsbilder zeigten sich bezüglich der Beteiligung an humanitären Militäreinsätzen und der Aufnahme von Flüchtlingen aus Krisengebieten?"
+    },
+    {
+        "a": "Es führte zu einer Stärkung der sozialen Sicherungssysteme, die durch geringere Ausgaben für zukünftige Generationen ermöglicht wurde, was wiederum die individuellen Abgaben senkte.",
+        "b": "Weniger Kinder bedeuteten geringere Ausgaben für deren Erziehung und Ausbildung, wodurch mehr Finanzmittel für den persönlichen Konsum der Babyboomer-Generation zur Verfügung standen.",
+        "c": "Die verringerte Bevölkerungsdichte in Ballungsräumen führte zu sinkenden Wohnkosten, was die individuelle Kaufkraft erheblich steigerte.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/weltbevoelkerungstag-ts-100.html",
+        "question": "Welchen paradoxen Effekt auf den individuellen Wohlstand der erwerbsfähigen Bevölkerung konnte ein langjähriger Geburtenrückgang in Deutschland in vergangenen Jahrzehnten laut dem Interview auslösen?"
+    },
+    {
+        "a": "Ein direktes Attentat vor dem Gerichtsgebäude, ausgeführt von einem Parteimitglied der Regierungspartei.",
+        "b": "Eine sofortige erneute Verhaftung aufgrund eines Dekrets des Präsidenten, das die Gerichtsentscheidung aufhob.",
+        "c": "Die erzwungene Ausweisung aus dem Land, um seine journalistische Tätigkeit zu unterbinden.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/tuerkei-duendar-101.html",
+        "question": "Welche persönliche Gefahr drohte Can Dündar, dem Chefredakteur einer regierungskritischen Zeitung, unmittelbar nach einer gerichtlichen Freisprechung, die von der politischen Führung des Landes nicht anerkannt wurde?"
+    },
+    {
+        "a": "Die Einführung einer nationalen Fachkräftekarte für qualifizierte Zuwanderer.",
+        "b": "Eine flächendeckende Einführung von Mindestlöhnen in den davon betroffenen Wirtschaftszweigen.",
+        "c": "Die Verpflichtung zur ausschließlichen Anwerbung von Arbeitskräften in Regionen mit ausgewiesenem Fachkräftemangel.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/meldung-ts-5338.html",
+        "question": "Welche spezifische Bedingung wurde von einem Vertreter der Bundesregierung genannt, um eine vorzeitige Öffnung des Arbeitsmarktes für Arbeitnehmer aus bestimmten EU-Staaten zu ermöglichen und gleichzeitig negativen Auswirkungen entgegenzuwirken?"
+    },
+    {
+        "a": "Die Stabilisierung der nationalen Haushaltslage durch Reduzierung sozialer Ausgaben.",
+        "b": "Die Schaffung einer gemeinsamen europäischen Lösung durch erhöhten Handlungsdruck auf die Europäische Union.",
+        "c": "Die Erfüllung von Forderungen einer populistischen Oppositionspartei zur Sicherung der Regierungskoalition.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/oesterreich-obergrenze-101.html",
+        "question": "Welche strategische Absicht verfolgte eine europäische Regierung nach Einschätzung eines Korrespondenten mit ihrem Vorstoß zur Einführung einer Obergrenze für Asylbewerber?"
+    },
+    {
+        "a": "Al-Qaida, basierend auf internen Analysen deutscher Sicherheitsdienste.",
+        "b": "ISPK, übermittelt von einem ausländischen Nachrichtendienst.",
+        "c": "Boko Haram, identifiziert durch eine breit angelegte internationale polizeiliche Kooperation.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/gesellschaft/anschlaegsplaene-koelner-dom-100.html",
+        "question": "Welche Terrororganisation wird mit mutmaßlichen Personen in Verbindung gebracht, die potenzielle Anschläge in Europa planen sollen, und welche Quelle lieferte die anfänglichen Hinweise auf diese Bedrohung an die nationalen Sicherheitsbehörden?"
+    },
+    {
+        "a": "Ein System, bei dem Asylanträge ausschließlich in speziell eingerichteten diplomatischen Vertretungen in den Herkunftsländern gestellt und bearbeitet werden.",
+        "b": "Die Einführung von Resettlement-Programmen, bei denen schutzbedürftige Personen in zahlenmäßig überschaubarem Ausmaß direkt aus Krisenregionen nach Europa gebracht werden, anstatt illegal die Grenzen zu überqueren.",
+        "c": "Eine Verpflichtung aller EU-Staaten zur Aufnahme eines bestimmten Kontingents an Flüchtlingen basierend auf einem festen Verteilungsschlüssel.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/kurz-interview-101.html",
+        "question": "Welche grundlegende Umstellung des Asylsystems schlug ein prominenter europäischer Politiker vor, um die irreguläre Migration nach Europa zu unterbinden und gleichzeitig Schutzbedürftigen gerecht zu werden?"
+    },
+    {
+        "a": "Sie erhielten maßgebliche diplomatische Unterstützung von der Europäischen Union, die auf eine friedliche Lösung drängte.",
+        "b": "Sie genossen die militärische und politische Rückendeckung einer benachbarten Großmacht, die ihre Autonomiebestrebungen unterstützte.",
+        "c": "Ihr Ziel der Unabhängigkeit wurde primär durch interne Volksabstimmungen und internationale Vermittlung ohne direkte externe militärische Einmischung vorangetrieben.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/georgiendossier-ts-100.html",
+        "question": "In Bezug auf langjährige Konflikte im Südkaukasus, welche spezifische Konstellation kennzeichnete das Bestreben zweier Regionen, ihre Unabhängigkeit durchzusetzen?"
+    },
+    {
+        "a": "Die jeweilige relative Wirtschaftskraft der Mitgliedstaaten.",
+        "b": "Der Bevölkerungsanteil jedes einzelnen Mitgliedstaates.",
+        "c": "Die aktuelle Inzidenzrate des Virus in den jeweiligen Ländern.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/corona-moderna-impfstoff-101.html",
+        "question": "Welches Kriterium ist maßgeblich für die Verteilung von zentral durch die Europäische Kommission beschafften Impfstoffen unter den Mitgliedstaaten der Europäischen Union?"
+    },
+    {
+        "a": "Sie möchte die Mitgliedstaaten dazu anregen, zügig umfassende nationale Strategien für Auffrischungsimpfungen zu implementieren.",
+        "b": "Es soll sichergestellt werden, dass Reisende aus Drittstaaten ausschließlich mit den in der EU zugelassenen Impfstoffen geimpft sind.",
+        "c": "Die Kommission beabsichtigt, den individuellen Schutz vor Virusmutationen durch eine verpflichtende und europaweite vierte Impfung zu garantieren.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/europa/eu-impfzertifikate-gueltigkeit-101.html",
+        "question": "Was ist ein zentrales Motiv der Europäischen Kommission für die angestrebte Begrenzung der Gültigkeitsdauer digitaler COVID-19-Impfzertifikate auf neun Monate?"
+    },
+    {
+        "a": "Die Einigung auf das dritte Hilfspaket für Griechenland.",
+        "b": "Der Beginn der Brexit-Verhandlungen mit dem Vereinigten Königreich.",
+        "c": "Die Einführung einer gemeinsamen EU-weiten Digitalsteuer.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/euarchivaugust-105.html",
+        "question": "Welches zentrale Thema prägte die Debatten innerhalb der Europäischen Union im Sommer 2015 maßgeblich?"
+    },
+    {
+        "a": "Die verstärkte internationale Unterstützung für die syrische Opposition durch westliche Mächte.",
+        "b": "Die Bindung wichtiger militärischer Ressourcen von Assads Verbündeten durch andere regionale und internationale Konflikte.",
+        "c": "Ein signifikanter interner Widerstand innerhalb der syrischen Armee gegen die Führung Assads.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/asien/interview-syrien-100.html",
+        "question": "Welche externe Entwicklung wird von Experten als wesentlicher Faktor für die aktuelle militärische Schwäche des syrischen Regimes und die erfolgreichen Angriffe von Rebellengruppen angesehen?"
+    },
+    {
+        "a": "Die Nutzung eines unternehmensweiten Baukastensystems für Fahrzeugplattformen und die gemeinsame Entwicklung neuer Antriebstechnologien.",
+        "b": "Der alleinige Fokus auf die Entwicklung hochpreisiger Exklusivmodelle zur Steigerung der Profitabilität ohne direkte technologische Zusammenarbeit.",
+        "c": "Die Erschließung neuer, bisher unzugänglicher Absatzmärkte durch den direkten Vertrieb über das bestehende Händlernetz des Mutterkonzerns.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/vwporscheinterview-ts-100.html",
+        "question": "Welche wesentliche strategische Synergie aus der Integration in einen größeren Konzern wird einem spezialisierten Automobilhersteller als entscheidend für die Bewältigung zukünftiger Technologieinvestitionen und die Steigerung der Produktionseffizienz zugeschrieben?"
+    },
+    {
+        "a": "Die Verbreitung von politisch oppositionellen Inhalten und die Nutzung für internationale Kommunikation ohne staatliche Aufsicht.",
+        "b": "Der Konsum von als „unmoralisch“ eingestuften Inhalten sowie die private Nutzung sozialer Medien, die als kulturwidrig betrachtet wird.",
+        "c": "Der unkontrollierte Zugang zu wirtschaftlich relevanten Daten und die Beeinflussung von Handelsrouten durch externe Akteure.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/asien/afghanistan-taliban-internet-102.html",
+        "question": "Welche spezifischen Nutzungskategorien des Internets wurden laut den Äußerungen des Tugendministeriums der Taliban als primär problematisch identifiziert und dienen als Begründung für geplante Filtermaßnahmen?"
+    },
+    {
+        "a": "Eine Untersuchung durch internationale Menschenrechtsorganisationen, die auf die Verletzung akademischer Freiheiten der Stipendiaten hinwies.",
+        "b": "Eine Prüfung durch den deutschen Zoll, die Verstöße gegen Exportkontrollvorschriften im Bereich des Wissenstransfers bei Forschungsprojekten mit Dual-Use-Potenzial aufdeckte.",
+        "c": "Eine interne Evaluierung der akademischen Integrationsfähigkeit und des Studienerfolgs dieser Doktoranden, die mangelnde Anpassung an deutsche Universitätsstandards feststellte.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/gesellschaft/china-stipendien-universitaet-erlangen-100.html",
+        "question": "Welche spezifische institutionelle Überprüfung führte laut Universitätsleitung zur vorübergehenden Aussetzung der Aufnahme bestimmter staatlich geförderter Doktoranden an der Universität Erlangen-Nürnberg?"
+    },
+    {
+        "a": "Die Mittel waren für den gesamten palästinensischen Küstenstreifen unter der Kontrolle der Notstandsregierung vorgesehen.",
+        "b": "Die Finanzhilfen würden ausschließlich dem Westjordanland zugutekommen.",
+        "c": "Das Geld sollte vorrangig in eine gemeinsame Infrastruktur für das Westjordanland und den Gazastreifen investiert werden.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/meldung-ts-4372.html",
+        "question": "Welche spezifische geografische Einschränkung legte die Europäische Union für die direkte Vergabe von Finanzhilfen an die palästinensische Notstandsregierung fest, nachdem diese ins Amt getreten war?"
+    },
+    {
+        "a": "Das Recht auf freie Mandatsausübung, welches die Abgeordneten vor unzulässigen Beschränkungen ihrer Tätigkeit schützt.",
+        "b": "Das Selbstorganisationsrecht des Parlaments, welches die eigenständige Festlegung und Anpassung der Geschäftsordnung jederzeit erlaubt.",
+        "c": "Das Minderheitenschutzrecht, welches gewährleistet, dass auch kleinere Fraktionen Anträge einbringen und zur Abstimmung stellen können.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/faq-thueringen-verfassungsgerichtshof-urteil-100.html",
+        "question": "Welche grundlegende Befugnis des Parlaments, die sich aus der Verfassung ableitet, wurde laut einer gerichtlichen Entscheidung vom Alterspräsidenten eines Landtags bei der Auslegung der Geschäftsordnung zur Konstituierung missachtet?"
+    },
+    {
+        "a": "Sie betonte die wirtschaftlichen Vorteile und die Armutsreduzierung, die durch die Maßnahmen des Staates erzielt wurden.",
+        "b": "Sie hob die Erfolge des Staates bei der Bekämpfung von Terrorismus und bei der Deradikalisierung hervor und lobte dessen Fortschritte im Bereich der Menschenrechte.",
+        "c": "Sie argumentierte, dass die Maßnahmen des Staates primär dem Schutz der nationalen Sicherheit und der Grenzkontrolle dienten.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/uiguren-123.html",
+        "question": "In einer internationalen Versammlung bezogen sich zwei unterschiedliche Staatengruppen auf die Situation einer bestimmten ethnischen Minderheit. Welche spezifische Argumentationslinie verfolgte die Gruppe von über 50 Nationen, die die Politik des betroffenen Staates unterstützte?"
+    },
+    {
+        "a": "Die unzureichende Kennzeichnung von Pferdefleisch in verarbeiteten Produkten macht eine Rückverfolgung der Klassifizierung unmöglich.",
+        "b": "Es werden trotz der Pässe häufig Medikamentenrückstände in Pferdefleisch gefunden, die für den menschlichen Verzehr nicht zugelassen sind.",
+        "c": "Eine zu geringe Anzahl an staatlichen Kontrollen verhindert die effektive Überwachung der Klassifizierung von Pferden.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/faqpferdefleisch-ts-100.html",
+        "question": "Was ist laut Verbraucherschützern der Hauptgrund dafür, dass die in der EU eingeführte Regelung zur Unterscheidung von Pferden in Lebensmittel- und Nichtlebensmitteltiere nicht wirksam genug ist?"
+    },
+    {
+        "a": "Die wiederholte Stundung von Zinszahlungen und die Einführung von Währungsreformen.",
+        "b": "Die Bereitstellung von Darlehen mit extrem langen tilgungsfreien Phasen und außergewöhnlich niedrigen Zinssätzen.",
+        "c": "Die Umwandlung von Staatsanleihen in Genussscheine und die direkte Kapitalzufuhr durch den IWF.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/kommentar-griechenland-101.html",
+        "question": "Welche spezifischen Konditionen der internationalen Finanzhilfen für Griechenland werden als Hauptgrund dafür genannt, dass ein de facto Schuldenschnitt bereits wirksam ist?"
+    },
+    {
+        "a": "Eine akute Gefährdung der nationalen Sicherheitsarchitektur durch unzureichende Personalressourcen bei Bundeswehr und Nachrichtendiensten.",
+        "b": "Eine extreme Belastung der gesamten kritischen Infrastruktur des Landes, einschließlich Bereichen wie Polizei, Feuerwehr und der Strom- und Wasserversorgung.",
+        "c": "Die zwingende Einführung einer allgemeinen Impfpflicht, um eine weitere Überlastung des Systems zu verhindern.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/innenpolitik/omikron-lockdown-103.html",
+        "question": "Welche spezifische Warnung sprach der Expertenrat der Bundesregierung bezüglich der Auswirkungen einer fortgesetzten Omikron-Ausbreitung über das Gesundheitssystem hinaus aus?"
+    },
+    {
+        "a": "Umfangreiche Abschreibungen auf wertgeminderte Hypothekenforderungen.",
+        "b": "Ein drastischer Rückgang des Volumens an neu vergebenen Hypothekendarlehen.",
+        "c": "Hohe Verwaltungskosten aufgrund der Expansion in internationale Märkte.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/fanniemae-ts-102.html",
+        "question": "Welche finanzielle Maßnahme trug maßgeblich zum Rekordverlust eines großen US-amerikanischen Hypothekenfinanzierers in einem bestimmten Quartal bei, der ihn möglicherweise zur Inanspruchnahme staatlicher Hilfen zwang?"
+    },
+    {
+        "a": "Die schnelle Bereitstellung von Offensivkapazitäten zur Unterstützung von Gegenoffensiven in Nicht-NATO-Gebieten.",
+        "b": "Die Übermittlung einer klaren Botschaft an potenzielle Aggressoren, eine Ausweitung des Konflikts auf NATO-Territorium zu unterlassen.",
+        "c": "Die Vorbereitung auf gemeinsame Friedensmissionen unter UN-Mandat in der Region.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/nato-deutschland-105.html",
+        "question": "Welches strategische Ziel verfolgte die NATO laut Einschätzung eines ihrer Kommandanten primär mit der schnellen Mobilisierung signifikanter Militärressourcen an ihrer Ostflanke nach Beginn des Ukraine-Konflikts?"
+    },
+    {
+        "a": "Die Sicherstellung der logistischen Unterstützung für die französischen Streitkräfte, um deren Einsatzdauer zu verkürzen.",
+        "b": "Die Befähigung der malischen Streitkräfte, langfristig selbst die entscheidende Widerstandskraft gegen fundamentalistische Bedrohungen zu entwickeln.",
+        "c": "Die Etablierung einer permanenten europäischen Militärpräsenz zur direkten Gebietskontrolle in den betroffenen Regionen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/mali-ts-116.html",
+        "question": "Was war laut der EU-Außenminister die zentrale strategische Überlegung für die Entsendung einer Militärmission nach Mali, um die Präsenz extremistischer Gruppen nachhaltig zu bekämpfen?"
+    },
+    {
+        "a": "Die zwingende Notwendigkeit einer kostenpflichtigen Baugenehmigung durch die Stadtverwaltung, die unabhängig von der Größe der Anlage anfällt.",
+        "b": "Die zusätzlich zur Zustimmung des Vermieters erforderliche Mehrheitsentscheidung der Wohnungseigentümergemeinschaft für bauliche Veränderungen am Gemeinschaftseigentum.",
+        "c": "Die gesetzliche Vorschrift, dass der Anschluss ausschließlich durch einen nach VDE-Normen zertifizierten Elektrofachbetrieb erfolgen muss, was hohe Installationskosten verursacht.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/energie/mini-solar-balkon-pv-101.html",
+        "question": "Welche spezifische administrative Hürde stellt für Mieter in Deutschland, die eine Mini-PV-Anlage an ihrem Balkon in einem Mehrparteienhaus installieren möchten, eine besondere Herausforderung dar und begrenzt die Verbreitung dieser Technologie trotz staatlicher Förderungen?"
+    },
+    {
+        "a": "Die Nichtberücksichtigung eines umfassenden Deflationsszenarios in der Eurozone.",
+        "b": "Eine unzureichende Bewertung der Auswirkungen von Naturkatastrophen auf Immobilienportfolios.",
+        "c": "Das Fehlen einer separaten Analyse für Schattenbanken und ihre Verflechtungen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/stresstest-nachlese-101.html",
+        "question": "Welche spezifische Lücke in den Szenarien des von der Europäischen Zentralbank (EZB) durchgeführten Banken-Stresstests wurde von Ökonomen und Beobachtern als kritisch hervorgehoben?"
+    },
+    {
+        "a": "0,2 Promille",
+        "b": "0,5 Promille",
+        "c": "0,0 Promille",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/cannabis-verkehr-100.html",
+        "question": "Welchem Referenzwert für die Blutalkoholkonzentration (BAK) im Straßenverkehr ist der von der Expertenkommission vorgeschlagene Grenzwert für Tetrahydrocannabinol (THC) hinsichtlich des Verkehrssicherheitsrisikos vergleichbar?"
+    },
+    {
+        "a": "Weil während der Sitzungen ein ausreichender Mindestabstand von mindestens zwei Metern zwischen den Teilnehmern eingehalten wird.",
+        "b": "Wenn die Dauer des Zusammentreffens weniger als 15 Minuten betrug und keine direkten Gespräche stattfanden.",
+        "c": "Aufgrund der regelmäßigen Schnelltestungen aller Kabinettsmitglieder vor jeder Sitzung, die eine frühzeitige Erkennung ermöglichen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/corona-kabinett-109.html",
+        "question": "Nach den vom Robert Koch-Institut definierten Kategorien und den internen Protokollen, unter welcher Voraussetzung werden Mitglieder der Bundesregierung nach einer gemeinsamen Kabinettssitzung üblicherweise nur als Kontaktpersonen zweiten Grades eingestuft, selbst wenn ein Kabinettskollege nachträglich positiv auf eine ansteckende Krankheit getest wird?"
+    },
+    {
+        "a": "Die Europäische Zentralbank.",
+        "b": "Der Internationale Währungsfonds.",
+        "c": "Der Europäische Stabilitätsmechanismus.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/griechenland-ts-690.html",
+        "question": "Welche Institution lieferte Griechenland vorübergehende finanzielle Unterstützung, um den Zeitraum bis zur Freigabe weiterer Hilfskredite zu überbrücken?"
+    },
+    {
+        "a": "Ihre nationale Währung wird fest an den Euro gekoppelt und darf nur in engen Spannen schwanken, zudem werden sie Teil der europäischen Bankenunion.",
+        "b": "Sie erhalten Zugang zu den Notfallliquiditätshilfen der EZB, müssen jedoch sofort alle nationalen Währungssymbole aufgeben.",
+        "c": "Ihre Geldpolitik wird vollständig von der EZB übernommen, während die Wechselkurse ihrer Währung weiterhin frei floatieren, bis der Euro offiziell eingeführt wird.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/euroschau-187.html",
+        "question": "Welchen unmittelbaren Status erlangen Länder hinsichtlich ihrer Währungspolitik und Bankenaufsicht, wenn sie dem Wechselkursmechanismus II (WKM II) beitreten?"
+    },
+    {
+        "a": "Unabhängige Energieexperten führen dies auf verstärkte Wartungsarbeiten und den Ausbau erneuerbarer Energien zurück, während Teile der Bevölkerung eine gezielte Manipulation der Regierung für Wahlzwecke vermuten.",
+        "b": "Die Regierung betont den Erfolg neuer internationaler Kooperationen zur Stromimportdiversifizierung, während Kritiker lediglich eine temporäre Reduzierung des industriellen Energiebedarfs sehen.",
+        "c": "Analysten weisen auf eine drastische Effizienzsteigerung in der Verteilung durch neue Technologien hin, während Umweltschützer die verbesserte Versorgung auf den geringeren Verbrauch in ländlichen Gebieten zurückführen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/afrika/suedafrika-parlamentswahl-100.html",
+        "question": "Welche unterschiedlichen Interpretationen werden bezüglich der plötzlichen Verbesserung der Stromversorgung in Südafrika im Vorfeld der Parlamentswahlen dargelegt?"
+    },
+    {
+        "a": "Die zukünftige Rolle der iranischen Revolutionsgarden in der regionalen Sicherheit.",
+        "b": "Das iranische Atomprogramm in seiner Gesamtheit.",
+        "c": "Die Frage der internationalen Sanktionen, die gegen den Iran verhängt wurden.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/atomstreit-ts-100.html",
+        "question": "Welches zentrale Thema wurde von der iranischen Führung explizit von den neu vereinbarten Gesprächen mit der Staatengemeinschaft ausgeschlossen, obwohl es der primäre Anlass für die diplomatischen Bemühungen war?"
+    },
+    {
+        "a": "Die Ausbreitung erfolgt vermehrt durch Mensch-zu-Mensch-Übertragungen, die nicht direkt mit Reisen in Endemiegebiete oder Kontakt zu importierten Tieren in Verbindung stehen.",
+        "b": "Der aktuell zirkulierende Virustyp weist eine drastisch erhöhte Sterblichkeitsrate im Vergleich zu früheren Stämmen auf.",
+        "c": "Es betrifft hauptsächlich Altersgruppen, die zuvor eine geringere Anfälligkeit zeigten, wie Säuglinge und sehr alte Menschen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wissen/gesundheit/faq-affenpocken-101.html",
+        "question": "Was kennzeichnet den aktuellen Ausbruch von Affenpocken in nicht-endemischen Regionen als \"höchst ungewöhnlich\" im Vergleich zu früher dokumentierten Fällen in diesen Gebieten?"
+    },
+    {
+        "a": "Eine interne Uneinigkeit der EU-Mitgliedstaaten bezüglich der Finanzierung und des Personalumfangs der Mission.",
+        "b": "Die ausbleibende Zustimmung einer ständigen Vetomacht im UN-Sicherheitsrat für eine neue Resolution, was die Mission auf eine ältere, weniger spezifische Grundlage verwies.",
+        "c": "Das Veto der kosovarischen Übergangsregierung gegen die Übernahme von exekutiven Kompetenzen durch das europäische Personal.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/eulex-ts-100.html",
+        "question": "Welche bedeutende Hürde betraf die völkerrechtliche Grundlage für die EU-Mission im Kosovo und stellte deren Mandat in Frage?"
+    },
+    {
+        "a": "Administrative Tätigkeiten wie Datenerfassung, Dokumentation und Organisation, deren Zeitaufwand sich merklich erhöht hat.",
+        "b": "Die direkte Patientenversorgung, da die Fallzahlen pro Arzt stetig ansteigen und weniger Zeit pro Patient bleibt.",
+        "c": "Die Teilnahme an obligatorischen Fort- und Weiterbildungen, die einen immer größeren Anteil der Arbeitszeit beanspruchen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/klinikaerzte-umfrage-ueberlastung-101.html",
+        "question": "Welche spezifische Arbeitsaufgabe hat sich für Klinikärzte in Deutschland laut einer Umfrage seit 2013 signifikant zeitintensiver gestaltet und wird als besonders frustrierend empfunden?"
+    },
+    {
+        "a": "Der völkerrechtliche Sonderstatus eines Staatsoberhauptes, der spezifische Rechte und Pflichten mit sich bringt.",
+        "b": "Eine formelle diplomatische Protestnote des Ziellandes, die den Besuch als unerwünscht erklärt.",
+        "c": "Das Fehlen einer gegenseitigen Einverständniserklärung auf höchster politischer Ebene für den jeweiligen Besuch.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/eu-reisefreiheit-ts-100.html",
+        "question": "Welche besondere juristische Betrachtung, abweichend von der für normale EU-Bürger geltenden Freizügigkeit, kann die Einreise eines Staatsoberhauptes eines EU-Mitgliedstaates in einen anderen EU-Mitgliedstaat einschränken?"
+    },
+    {
+        "a": "Gründe, die primär medienpolitischen oder programminhaltlichen Zielen dienen.",
+        "b": "Gründe, die eine unangemessene finanzielle Belastung der Beitragszahler berücksichtigen.",
+        "c": "Gründe, die der Sicherung des Informationszugangs für die Bevölkerung dienen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/faq-rundfunkbeitrag-bundesverfassungsgericht-101.html",
+        "question": "Welcher Art von Gründen dürfen bei der Festlegung des Rundfunkbeitrags, abweichend von der Empfehlung der Kommission zur Ermittlung des Finanzbedarfs der Rundfunkanstalten (KEF), laut Bundesverfassungsgerichtsurteilen grundsätzlich nicht verfolgt werden?"
+    },
+    {
+        "a": "Rassismus beschreibt eine konkrete Handlung der Ungleichbehandlung, während Diskriminierung eine zugrundeliegende Ideologie darstellt.",
+        "b": "Rassismus wird als eine Geisteshaltung oder Ideologie verstanden, wohingegen Diskriminierung eine praktische Benachteiligung darstellt.",
+        "c": "Beide Begriffe sind weitgehend synonym und bezeichnen lediglich unterschiedliche Facetten desselben gesellschaftlichen Phänomens.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/faktenfinder/rassismus-115.html",
+        "question": "Wie wird im Kontext gesellschaftlicher Benachteiligung die konzeptuelle Abgrenzung zwischen Rassismus und Diskriminierung primär vorgenommen?"
+    },
+    {
+        "a": "Die Einführung eines komplexen Systems von Vignetten mit stark variierenden Preisen je nach Fahrzeugtyp und Umweltklasse.",
+        "b": "Die Kombination aus einer vollständigen Kompensation für inländische Fahrzeugbesitzer über die Kfz-Steuer und der alleinigen Kontrollpflicht für ausländische Fahrer.",
+        "c": "Eine zu geringe Berücksichtigung von Anwohnern aus Grenzregionen, die die Infrastruktur regelmäßig nutzen müssen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/oesterreich-maut-101.html",
+        "question": "Welcher Hauptkritikpunkt an der Konzeption einer nationalen Pkw-Maut könnte die Gefahr einer massiven Benachteiligung von Autofahrern aus dem EU-Ausland begründen und zu einer Klage vor einem europäischen Gericht führen?"
+    },
+    {
+        "a": "Ein zunehmendes internationales Engagement der USA, das zu Überforderung und Isolation führt.",
+        "b": "Die militärische Niederlage im Irak in Kombination mit dem wirtschaftlichen Niedergang im Inland.",
+        "c": "Eine wachsende Spaltung der Gesellschaft durch religiöse und moralische Fragen, die die republikanische Basis untergraben.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/meldung-ts-848.html",
+        "question": "Welche Entwicklungen, die während der Amtszeit von George W. Bush erwartet wurden, sollten laut Howard Zinn primär zum Wahlsieg eines demokratischen Präsidentschaftskandidaten führen?"
+    },
+    {
+        "a": "Er ermöglicht die völlig unzensierte Verbreitung illegaler Inhalte und umgeht somit alle rechtlichen Beschränkungen.",
+        "b": "Er erlaubt die anonyme Überwindung persönlicher Hemmschwellen bei potenziellen Käufern und überbrückt die geografische Distanz zwischen ländlichen Hochburgen und städtisch orientierten physischen Geschäften.",
+        "c": "Er richtet sich ausschließlich an ein junges, technikaffines Publikum und schließt somit ältere Generationen von der Szene aus.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/meldung-ts-4382.html",
+        "question": "Welchen entscheidenden Vorteil bietet der Online-Handel rechtsextremen Gruppierungen, insbesondere bei der Rekrutierung und Warenverbreitung, im Vergleich zu traditionellen Vertriebswegen?"
+    },
+    {
+        "a": "Sie dienten als Lagerstätten für Waffen und Munition, die man sicherstellen wollte.",
+        "b": "Kämpfer nutzten Krankenhäuser bei früheren Operationen als Rückzugsorte, um sich den Sicherheitskräften zu entziehen.",
+        "c": "Es gab Hinweise darauf, dass in den Krankenhäusern Zivilisten als menschliche Schutzschilde festgehalten wurden.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-126.html",
+        "question": "Welchen Hauptgrund nannte der Militärexperte Kadosh für die Belagerung von Krankenhäusern während des Militäreinsatzes im Westjordanland durch israelische Kräfte?"
+    },
+    {
+        "a": "Der Austausch der für die Sprengstoffherstellung vorgesehenen Chemikalien durch eine unbrauchbare Flüssigkeit.",
+        "b": "Die Einschleusung eines verdeckten Ermittlers, der die internen Pläne der Gruppe an die Behörden weitergab.",
+        "c": "Die Entdeckung und Zerstörung des Trainingslagers der Gruppe in einem Drittland durch internationale Operationen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/sauerlandgruppe-105.html",
+        "question": "Welche präventive Maßnahme deutscher Sicherheitsbehörden war maßgeblich dafür, dass die Sauerlandgruppe ihren geplanten Terroranschlag nicht ausführen konnte?"
+    },
+    {
+        "a": "Die systematische Entfernung von Titeln unabhängiger Künstler, die bestimmte Hörerschwellen nicht erreichen.",
+        "b": "Die absichtliche Manipulation von Abrufzahlen durch den Einsatz automatisierter Programme oder 'Server-Farmen'.",
+        "c": "Das erzwungene Bundle von Musiktiteln mit abonnierten Diensten ohne zusätzliche Lizenzgebühren.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/unternehmen/musikbranche-streamingdienste-101.html",
+        "question": "Abgesehen von der Diskussion um geringe Auszahlungen pro Stream und die pro-rata-Vergütung, welche weitere betrügerische Praktik wurde laut Experten in der Musikstreaming-Branche identifiziert, die zu einer künstlichen Verzerrung der Erfolgsmetriken führt?"
+    },
+    {
+        "a": "Die Möglichkeit für den Nachfolger, sich ohne die Bürde früherer Politiken neu zu positionieren und eine eigene politische Marke aufzubauen.",
+        "b": "Die gleichzeitige Übergabe der Führungsposition in der Partei und des Regierungschefpostens verschafft dem Nachfolger einen deutlichen Vorteil für zukünftige Wahlen.",
+        "c": "Eine erhöhte Chance auf breite Koalitionsbildung, da der Nachfolger keine Altlasten aus der früheren Regierungsführung mitbringt.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/innenpolitik/weil-rueckzug-niedersachsen-100.html",
+        "question": "Welcher strategische Vorteil ergibt sich laut politischen Beobachtern aus der doppelten Amtsniederlegung eines Ministerpräsidenten, der auch Landesparteivorsitzender ist, im Hinblick auf einen Nachfolger?"
+    },
+    {
+        "a": "Um die Aufrechterhaltung diplomatischer Gesprächskanäle mit dem betreffenden Staat nicht vollständig zu unterbrechen.",
+        "b": "Weil zu diesem Zeitpunkt noch keine hinreichenden Beweise für eine direkte persönliche Beteiligung an den militärischen Handlungen vorlagen.",
+        "c": "Da die rechtlichen Rahmenbedingungen der EU eine direkte Sanktionierung von Staatsoberhäuptern prinzipiell ausschließen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/krimreferendum-ts-100.html",
+        "question": "Welchen strategischen Grund nannte die Europäische Union für die anfängliche Aussparung des höchsten politischen Amtsinhabers eines bestimmten Staates von den ersten gezielten Sanktionsmaßnahmen?"
+    },
+    {
+        "a": "Ein zweistufiges Verfahren, das deutlich vor einer drohenden Insolvenz eingeleitet werden kann und bei dem systemrelevante Unternehmensteile in eine „Good Bank“ überführt werden, während Klagen den Sanierungsprozess nicht verzögern.",
+        "b": "Die verpflichtende vollständige Enteignung der Anteilseigner bei den ersten Anzeichen einer Schieflage, um eine sofortige Rekapitalisierung durch den Staat zu ermöglichen.",
+        "c": "Ein Mechanismus, der erst kurz vor dem eigentlichen Eintritt der Insolvenz einer Bank staatliche Eingriffe vorsieht und den Entzug von Stimmrechten der Anteilseigner als primäres Mittel nutzt.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/bankengesetz-ts-100.html",
+        "question": "Welches Kernmerkmal kennzeichnet den von den SPD-Ministern Zypries und Steinbrück vorgeschlagenen Gesetzentwurf zur Sanierung maroder Großbanken im Kontext der deutschen Finanzmarktstabilität?"
+    },
+    {
+        "a": "Die Kreditlinie war an eine Bedingung geknüpft, dass die Empfängerländer innerhalb von neun Monaten eine feste Rückzahlungsvereinbarung treffen mussten.",
+        "b": "Die Bereitstellung der Mittel erfolgte ohne jegliche an Bedingungen geknüpfte Reformauflagen oder spezifische wirtschaftspolitische Vorgaben an das Empfängerland.",
+        "c": "Sie sah eine maximale Laufzeit von einem halben Jahr für die Inanspruchnahme der Gelder vor, um schnelle Liquidität zu gewährleisten.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/mexiko-ts-124.html",
+        "question": "Welches wesentliche Merkmal unterschied die vom Internationalen Währungsfonds (IWF) erstmals für Mexiko eingesetzte 'Flexible Kreditlinie' (FCL) von vorherigen, weniger erfolgreichen Hilfsinstrumenten?"
+    },
+    {
+        "a": "Er ist davon überzeugt, dass die expansive Geldpolitik fortgesetzt werden muss, um das Inflationsziel zu erreichen, kann dies aber angesichts der öffentlichen Kritik nicht offen äußern.",
+        "b": "Er erkennt die Notwendigkeit einer Normalisierung der Geldpolitik, kann sich aber aufgrund seiner früheren Position als Befürworter lockerer Politik und seiner Rolle im Schatten des Präsidenten nicht dafür aussprechen.",
+        "c": "Er glaubt, dass die EZB ihr Mandat überschritten hat und die Politik nun die Verantwortung übernehmen sollte, kann diese Kritik aber nicht äußern, um die Institution nicht zu schwächen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/euroschau-ezb-101.html",
+        "question": "Welcher inneren Konflikt oder welche unpopuläre Erkenntnis wird dem scheidenden Vize-Präsidenten der Europäischen Zentralbank, Vítor Constâncio, bezüglich der zukünftigen Geldpolitik zugeschrieben?"
+    },
+    {
+        "a": "Der Nikkei-Index für Unternehmensinvestitionen",
+        "b": "Der quartalsweise ermittelte \"Tankan\"-Bericht der Zentralbank",
+        "c": "Das Konsumklima der japanischen Haushalte",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/japan-ts-178.html",
+        "question": "Welches ökonomische Barometer für die Stimmung in den Führungsetagen Japans wurde angesichts der damaligen Wirtschaftslage auf einen Tiefstand projiziert, der seit über drei Jahrzehnten nicht mehr registriert wurde?"
+    },
+    {
+        "a": "Die Vermeidung von Kompromissen, die zu einer Verwässerung eigener Kernforderungen führen könnten.",
+        "b": "Das Unterlassen von Versprechungen, deren Umsetzung finanziell nicht abgesichert ist.",
+        "c": "Die Sicherstellung einer breiten gesellschaftlichen Akzeptanz für alle geplanten Reformvorhaben vor deren Verkündung.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/innenpolitik/union-spd-koalitionsverhandlungen-102.html",
+        "question": "Welche spezifische Lehre aus vergangenen Regierungserfahrungen betonen die Sozialdemokraten explizit als Leitlinie für die Gestaltung des Koalitionsvertrags?"
+    },
+    {
+        "a": "Es ist bereits in viel höherer Instanz, nämlich in den EU-Verträgen, fest verankert und daher kein Verhandlungsgegenstand in einem Handelsabkommen.",
+        "b": "Japan hat zugesichert, das europäische Vorsorgeprinzip in seine eigenen nationalen Gesetze zu übernehmen, was eine separate Nennung überflüssig macht.",
+        "c": "Das Abkommen konzentriert sich vorrangig auf den Abbau von Zöllen und Handelshemmnissen, während produktspezifische Sicherheitsstandards durch separate bilaterale Abkommen geregelt werden.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/jefta-107.html",
+        "question": "Aus welchem Hauptgrund argumentieren hochrangige EU-Beamte, dass das europäische Vorsorgeprinzip, welches Produkte erst nach Prüfung auf Gesundheitsgefahren zulässt, nicht prominent im Freihandelsabkommen JEFTA erwähnt werden muss, obwohl es von Kritikern moniert wurde?"
+    },
+    {
+        "a": "Das Fehlen gesicherter Daten über den genauen Beitrag von Kindern zur Verbreitung des Virus.",
+        "b": "Die weitgehende Übereinstimmung, dass Kinder eine geringe Rolle bei der Virusübertragung spielen.",
+        "c": "Die eindeutigen Belege für ein erhöhtes Risiko schwerer Krankheitsverläufe bei Kindern im Schulalter.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/corona-schulen-oeffnungen-101.html",
+        "question": "Welche wissenschaftliche Erkenntnislage erschwerte laut Einschätzung eines Ministers die Entscheidungsfindung bezüglich der Wiedereröffnung von Bildungseinrichtungen in einer Pandemie?"
+    },
+    {
+        "a": "Wähler der CDU/CSU, die Klimaschutz als gleichrangig mit der Verbesserung des Pflegesystems betrachteten.",
+        "b": "Anhänger der Grünen, die den Klimaschutz mit einem Anteil von über 40 Prozent als wichtigste Aufgabe sahen.",
+        "c": "Sympathisanten der FDP, deren Fokus auf Klimaschutz die durchschnittliche Zustimmung der Gesamtbevölkerung leicht übertraf.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-987.html",
+        "question": "Welche politische Wählergruppe wies laut einer Umfrage der potenziellen Koalition die höchste Priorität für den Klimaschutz zu, deutlich abweichend von den Präferenzen anderer Anhängerschaften?"
+    },
+    {
+        "a": "Bestimmte Medien und ein Meinungsforschungsinstitut.",
+        "b": "Vertreter internationaler Finanzmärkte und der Europäischen Zentralbank.",
+        "c": "Einflussreiche Lobbygruppen aus der Automobil- und Energiebranche.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/interviewspd-ts-100.html",
+        "question": "Welche externen Akteure wurden kurz nach einem Führungswechsel innerhalb einer großen deutschen Volkspartei von einem ihrer Bundestagsabgeordneten als maßgeblich an der Beeinflussung interner Prozesse und Entscheidungen bezeichnet?"
+    },
+    {
+        "a": "Ihre geringe Recyclingfähigkeit innerhalb der bestehenden Infrastruktur der Mitgliedstaaten.",
+        "b": "Die Verfügbarkeit von etablierten Alternativen ohne Plastik auf dem Markt.",
+        "c": "Das nachgewiesene hohe Vorkommen dieser Produkte als Mikroplastik in der Nahrungskette.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/plastik-125.html",
+        "question": "Welches Hauptkriterium legte das EU-Parlament für das unmittelbare Verbot bestimmter Einweg-Plastikprodukte fest?"
+    },
+    {
+        "a": "Sie ermöglichen eine verbesserte Aufklärung und präzisere Differenzierung zwischen militärischen und zivilen Zielen, jedoch ausschließlich im Rahmen eines bewaffneten Konflikts.",
+        "b": "Sie erlauben eine gezielte Tötung von Terrorverdächtigen, auch außerhalb bewaffneter Konflikte, um präventiv Gefahren abzuwenden.",
+        "c": "Sie reduzieren das Risiko für eigenes Personal erheblich, was den Einsatz militärischer Gewalt ethisch vertretbarer macht.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/interview-marauhn-ts-100.html",
+        "question": "Welche spezifische Eigenschaft moderner hochtechnologischer Waffensysteme, wie etwa Drohnen, sieht der Völkerrechtsexperte Thilo Marauhn als potenziellen Vorteil für die Einhaltung des humanitären Völkerrechts?"
+    },
+    {
+        "a": "Die Anhänger betrachten solche Vorhersagen als Tests der Loyalität durch den Anonymen Verfasser \"Q\", um die Entschlossenheit der Gemeinschaft zu prüfen.",
+        "b": "Das Ausbleiben wird entweder als Fehlinterpretation der ursprünglichen Botschaften oder als geschickte, strategische Verzögerung im Kampf gegen den „tiefen Staat“ dargestellt.",
+        "c": "Es wird argumentiert, dass externe Mächte erfolgreich interveniert haben, um die Umsetzung der prophezeiten Ereignisse kurzfristig zu verhindern.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/faktenfinder/qanon-faq-101.html",
+        "question": "Welche spezifische Erklärung bietet die QAnon-Bewegung für das Ausbleiben konkret angekündigter Ereignisse, wie Verhaftungen oder Machtwechsel, die nach dem Narrativ längst hätten eintreten sollen?"
+    },
+    {
+        "a": "Die Möglichkeit, dass die gelieferten Waffensysteme durch technische Defekte oder mangelnde Ausbildung nicht einsatzfähig sind.",
+        "b": "Das Risiko, dass die Interessen der Empfängerparteien sich zukünftig ändern und die Waffen dann gegen die Interessen der liefernden Nationen oder ihrer Verbündeten eingesetzt werden.",
+        "c": "Die unvermeidliche Preissteigerung auf dem Schwarzmarkt für Waffen, die weitere Konflikte in der Region anfachen könnte.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/interview-waffenlieferungen-101.html",
+        "question": "Welche langfristige, potenzielle Gefahr im Kontext internationaler Waffenlieferungen in Krisengebiete wird von Experten als besonders kritisch hervorgehoben, die über die unmittelbaren Kampfhandlungen hinausgeht?"
+    },
+    {
+        "a": "Eine vollständige Abschaltung des Abgasreinigungssystems aus Gründen der Motorleistung.",
+        "b": "Eine temporäre Reduzierung der Abgasnachbehandlung, um den Motor vor Beschädigungen zu schützen.",
+        "c": "Eine notwendige Anpassung der Motorsteuerung zur Gewährleistung der Verkehrssicherheit bei kalter Witterung.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/mercedes-117.html",
+        "question": "Welchen spezifischen Grund führte der beklagte Automobilhersteller an, um die beobachtete Erhöhung der Stickoxid-Emissionen bei seinen Dieselmodellen unter bestimmten Temperaturbedingungen zu erklären?"
+    },
+    {
+        "a": "Die Organisation Amerikanischer Staaten (OAS).",
+        "b": "Der Vatikan.",
+        "c": "Die Vereinten Nationen (UN).",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/usa-kuba-beziehungen-101.html",
+        "question": "Welche Institution spielte neben Kanada eine zentrale Rolle als Vermittler bei den geheimen Gesprächen, die zur Annäherung zwischen den Vereinigten Staaten und Kuba führten, indem sie sich persönlich an die Staatschefs wandte und Treffen ausrichtete?"
+    },
+    {
+        "a": "Er organisierte als Jugendlicher landesweite Streiks zur Unterstützung der Gewerkschaften und Arbeitnehmerrechte.",
+        "b": "Er führte als Schüler einen Aufstand gegen eine Bildungsreform an und galt als talentierter Redner der Kommunistischen Jugend.",
+        "c": "Er war als Studentensprecher maßgeblich an der Gestaltung neuer Hochschulgesetze beteiligt, die das Bildungssystem modernisierten.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/tsipras-ts-100.html",
+        "question": "Welche frühe politische Erfahrung prägte die öffentliche Wahrnehmung von Alexis Tsipras als politisch aktiver Persönlichkeit, lange bevor er eine führende Rolle in der Landespolitik übernahm?"
+    },
+    {
+        "a": "Der Erhöhung von Steuereinnahmen anstatt auf tiefgreifenden Ausgabenkürzungen.",
+        "b": "Der Privatisierung staatlicher Unternehmen anstatt auf der Sanierung des öffentlichen Sektors.",
+        "c": "Der Reduzierung von Sozialleistungen anstatt auf der Bekämpfung von Korruption.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/griechenland-tsipras-bruessel-101.html",
+        "question": "Bei den Verhandlungen über finanzielle Hilfen für ein europäisches Krisenland beanstandete eine der beteiligten internationalen Gläubigerinstitutionen, dass die vorgeschlagenen Einsparungsmaßnahmen des Landes zu stark auf welcher Art von Maßnahmen basierten?"
+    },
+    {
+        "a": "5 bis 10 Jahre",
+        "b": "10 bis 20 Jahre",
+        "c": "20 bis 30 Jahre",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/europa/who-corona-anstieg-psychische-krankheiten-101.html",
+        "question": "Um wie viele Jahre verkürzt sich die Lebenserwartung von Personen mit schweren psychischen Störungen im Vergleich zur Allgemeinbevölkerung laut dem aktuellen Bericht einer internationalen Gesundheitsorganisation?"
+    },
+    {
+        "a": "Die Bankmitarbeiter davon überzeugen, dass das Guthaben trotz Pfändung auszahlbar ist.",
+        "b": "Monatlich einen erneuten Antrag beim zuständigen Gericht einreichen.",
+        "c": "Eine direkte Einigung mit dem Gläubiger über die Freigabe der Summe herbeiführen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/meldung-ts-3600.html",
+        "question": "Welche verbleibende individuelle Aufgabe des Schuldners ist laut der diskutierten Reform des Kontopfändungsschutzes weiterhin erforderlich, um die Auszahlung des automatisch geschützten Guthabens auf einem gepfändeten Konto sicherzustellen?"
+    },
+    {
+        "a": "Eine überdurchschnittlich hohe Dichte an spezialisierten Beatmungsplätzen in städtischen Gebieten.",
+        "b": "Das statistisch signifikant niedrigere Durchschnittsalter der Bevölkerung in den betroffenen Regionen.",
+        "c": "Eine weit verbreitete genetische Prädisposition, die eine mildere Verlaufsform der Krankheit begünstigt.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/afrika/corona-581.html",
+        "question": "Virologen haben Faktoren identifiziert, die trotz geringer COVID-19-Impfquoten in bestimmten Weltregionen zu einer vergleichsweise niedrigeren offiziellen Sterblichkeitsrate beitragen könnten. Welcher der folgenden Punkte wird in diesem Kontext als ein solcher Einflussfaktor genannt?"
+    },
+    {
+        "a": "Die rechnerischen Mehrheitsverhältnisse im Bundestag erforderten selbst bei vollständiger Zustimmung der AfD zusätzlich die Stimmen der FDP sowie weiterer Abgeordneter.",
+        "b": "Die AfD-Fraktion hatte inhaltliche Bedenken gegen die Vorschläge geäußert und eine Ablehnung im Vorfeld signalisiert.",
+        "c": "Eine Zusammenarbeit mit der AfD hätte nach Einschätzung des Kanzlerkandidaten zu einem automatischen Verlust der FDP-Unterstützung geführt.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/bundestagswahl/merz-brennpunkt-100.html",
+        "question": "Welchen spezifischen parlamentarischen Umstand nannte der Unions-Kanzlerkandidat als Beleg dafür, dass eine einfache Mehrheit für seine Migrationsvorschläge nicht allein durch eine hypothetische Zustimmung der AfD-Fraktion zu erreichen gewesen wäre?"
+    },
+    {
+        "a": "Ein umfassendes Förderprogramm der Weltgesundheitsorganisation (WHO) zur Ausrottung vernachlässigter Tropenkrankheiten.",
+        "b": "Die strategische Reaktion der Vereinigten Staaten auf potenzielle Bioterrorismus-Gefahren nach den Ereignissen von 2001.",
+        "c": "Eine langjährige Forschungskooperation europäischer Staaten zur Schaffung einer gemeinsamen Impfstoffreserve.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/unternehmen/bavarian-nordic-unternehmensprofil-affenpocken-impfstoff-101.html",
+        "question": "Was war der entscheidende Katalysator für die Entwicklung des spezifischen Pockenimpfstoffs, der später auch für Affenpocken zugelassen wurde, und der das betreffende Biotech-Unternehmen in eine monopolartige Stellung brachte?"
+    },
+    {
+        "a": "Der öffentliche Sektor setzte den Abbau von Arbeitsplätzen aufgrund von Sparzwängen fort.",
+        "b": "Ein signifikanter Anstieg der Teilzeitbeschäftigung verdeckte den Rückgang von Vollzeitstellen.",
+        "c": "Unerwartet hohe Jobverluste in der Landwirtschaft kompensierten die Zuwächse in anderen Sektoren.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/usa-arbeitslosenzahlen-ts-100.html",
+        "question": "Welche Entwicklung prägte den US-Arbeitsmarkt im Juni 2013, die trotz eines allgemeinen Anstiegs der Beschäftigtenzahlen in bestimmten Wirtschaftszweigen beobachtet wurde?"
+    },
+    {
+        "a": "Eine massive Erhöhung der Rohstoffpreise, die die Produktionskosten überproportional steigen ließ.",
+        "b": "Die fortgesetzte finanzielle Belastung durch eine bedeutende Beteiligung an einem angeschlagenen Joint Venture.",
+        "c": "Der überdurchschnittliche Verkaufsrückgang der hochpreisigen und margenstarken Modelle des Herstellers.",
+        "correct_answer": "c",
+        "id": "https://www.tagesschau.de/wirtschaft/daimler-ts-110.html",
+        "question": "Welcher Faktor trug bei einem Premium-Automobilhersteller maßgeblich zu einem Gewinnrückgang von über 50% in einem Krisenjahr bei, obwohl einige seiner Volumenmodelle einen unterdurchschnittlichen Absatzrückgang verzeichneten?"
+    },
+    {
+        "a": "Matteo Renzi, Premierminister Italiens, stand vor einem Referendum über eine Verfassungsreform, dessen Ausgang ungewiss war.",
+        "b": "Mariano Rajoy, Premierminister Spaniens, hatte Schwierigkeiten, eine stabile Koalitionsregierung zu bilden, was Neuwahlen drohte.",
+        "c": "François Hollande, Präsident Frankreichs, sah sich mit einer bevorstehenden Präsidentschaftswahl konfrontiert, bei der die rechtspopulistische Bewegung stark zulegte.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/obama-eu-treffen-101.html",
+        "question": "Welche spezifische politische Herausforderung stand einem der anwesenden europäischen Regierungschefs in unmittelbarer Zukunft bevor, die seine politische Position gefährden könnte?"
+    },
+    {
+        "a": "Der Erfolg bei der Landtagswahl in Nordrhein-Westfalen 2017, bei dem er entgegen parteiinterner Erwartungen einen Wahlsieg erzielte.",
+        "b": "Die maßgebliche Rolle bei der Neuverhandlung eines Koalitionsvertrags auf Bundesebene, welche die Partei stärkte.",
+        "c": "Die erfolgreiche Umsetzung einer umstrittenen Reforminitiative, die die parteiinterne Einheit wiederherstellte und neue Wählerschichten erschloss.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/cdu-vorsitz-121.html",
+        "question": "Welches konkrete politische Ereignis aus der jüngeren Vergangenheit wird als Beleg für die unvorhergesehene Durchsetzungsfähigkeit und die Fähigkeit zur breiten Wähleransprache eines bestimmten Kandidaten im Wettbewerb um den Parteivorsitz genannt?"
+    },
+    {
+        "a": "Die systematische Verweigerung jeglicher überprüfbarer Informationen durch die chinesische Regierung, was eine unabhängige Kontrolle der Ereignisse unmöglich machte.",
+        "b": "Die mangelnde Bereitschaft der tibetischen Bevölkerung, mit ausländischen Journalisten zu kommunizieren, aus Angst vor Repressalien.",
+        "c": "Die ausschließliche Konzentration internationaler Medien auf gewalttätige Auseinandersetzungen, wodurch andere Aspekte der Proteste ignoriert wurden.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/china-ts-224.html",
+        "question": "Was wurde laut ARD-Korrespondent Graebert als die grundlegendste Einschränkung bei der Berichterstattung über die Unruhen in Tibet identifiziert, die es Journalisten erschwerte, ein umfassendes und verifiziertes Bild der Lage zu erhalten?"
+    },
+    {
+        "a": "Das Verhindern, dass Schlepperboote überhaupt erst die gefährliche Überfahrt über das Mittelmeer antreten.",
+        "b": "Die Beschleunigung der Rückführung von Migranten aus europäischen Erstaufnahmelagern direkt in ihre Herkunftsländer.",
+        "c": "Die Einrichtung von humanitären Auffanglagern in Nordafrika zur Entlastung der EU-Außengrenzen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/kurz-frontex-101.html",
+        "question": "Welches primäre präventive Ziel verfolgt die Forderung nach der Stationierung europäischer Grenzschutzbeamter in afrikanischen Ländern?"
+    },
+    {
+        "a": "Ein tiefgreifendes Gefühl der Verunsicherung, das das Thema Sicherheit in den Vordergrund rückte und vor allem rechtspopulistischen Kräften zugutekam.",
+        "b": "Eine breite Welle der Solidarität, die die Bedeutung der sozialen Kohäsion betonte und insbesondere Mitte-Links-Parteien stärkte.",
+        "c": "Wachsende ökonomische Sorgen, welche die Debatte über Arbeitsplatzsicherung dominierten und traditionelle Wirtschaftsparteien bevorzugten.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/frankreich-regionalwahlen-101.html",
+        "question": "Welches dominierende Gefühl in der Bevölkerung wurde in einem europäischen Land nach gravierenden Ereignissen zu einem zentralen Thema in einer politischen Auseinandersetzung und stärkte dabei eine spezifische politische Bewegung?"
+    },
+    {
+        "a": "Die Studie berücksichtigte ausschließlich die Auswirkungen auf die psychische Gesundheit und nicht die direkten Infektionszahlen.",
+        "b": "Die verwendeten Daten stammten aus einer früheren Pandemiewelle und berücksichtigten keine neuen, infektiöseren Virusvarianten.",
+        "c": "Die Untersuchung konzentrierte sich nur auf ländliche Gebiete und war daher nicht auf städtische Ballungsräume anwendbar.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/investigativ/monitor/ausgangssperren-103.html",
+        "question": "Welche wesentliche Einschränkung der sogenannten Oxford-Studie zur Wirksamkeit von Ausgangssperren, die oft zur Begründung von Maßnahmen herangezogen wurde, wird von den Studienautoren selbst betont, wodurch eine direkte Übertragung auf spätere Pandemiephasen erschwert wird?"
+    },
+    {
+        "a": "Der Maschinenbau, insbesondere in Bereichen mit Bezug zur militärischen Produktion.",
+        "b": "Die Ölförderung, die durch neue Exportmärkte signifikant ausgeweitet wurde.",
+        "c": "Die Agrarmaschinenproduktion, um die heimische Landwirtschaft zu stärken.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/europa/russland-bevoelkerung-krieg-sanktionen-100.html",
+        "question": "Welcher spezifische Industriezweig in Tatarstan erfuhr im Kontext der aktuellen geopolitischen Lage und westlicher Sanktionen einen bemerkenswerten Produktionsanstieg von 80 Prozent, was laut Bericht maßgeblich durch militärische Zulieferungen bedingt war?"
+    },
+    {
+        "a": "Die wiederholte Nichtlöschung einzelner rechtswidriger Inhalte, die von Nutzern gemeldet wurden.",
+        "b": "Das Vorliegen nachweislicher systematischer Versäumnisse bei der Erfüllung der gesetzlichen Pflichten zur Bearbeitung und Entfernung von rechtswidrigen Inhalten.",
+        "c": "Die Weigerung, einen rechtswirksamen Ansprechpartner in Deutschland zu benennen, auch wenn keine konkreten Löschverstöße vorliegen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/netzdg-101.html",
+        "question": "Welcher Umstand ist im Rahmen des Netzwerkdurchsetzungsgesetzes maßgeblich für die mögliche Verhängung einer Höchststrafe von bis zu 50 Millionen Euro gegen einen Online-Diensteanbieter?"
+    },
+    {
+        "a": "Die Notwendigkeit, eine einheitliche Verhandlungsposition zu gewährleisten, um bei komplexen Themen wie dem Klima-Paket oder dem Lissabon-Vertrag effektiv agieren zu können.",
+        "b": "Eine dringende technische Überprüfung der Regierungsmaschine, die eine sofortige Rückkehr nach Warschau verhinderte.",
+        "c": "Die Absicht, dem Präsidenten eine unabhängige Plattform zu bieten, um seine eigenen diplomatischen Beziehungen zu pflegen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/polen-ts-112.html",
+        "question": "Welchen zentralen Grund nannte der polnische Premierminister, um seine Entscheidung zu untermauern, den Präsidenten nicht mit der Regierungsmaschine zum EU-Gipfel mitreisen zu lassen?"
+    },
+    {
+        "a": "Die Notwendigkeit, schnelle und sichere Öffnungsstrategien für Kitas und Grundschulen zu ermöglichen, da dort enge Kontakte unvermeidlich sind und Schutzmaßnahmen bei kleinen Kindern erschwert sind.",
+        "b": "Ein Mangel an qualifiziertem Personal, der durch krankheitsbedingte Ausfälle zu einer drohenden Systeminstabilität führen würde.",
+        "c": "Die Feststellung, dass diese Berufsgruppen eine überdurchschnittlich hohe Rate an schweren Krankheitsverläufen aufwiesen, welche die Gesundheitsversorgung zu überlasten drohte.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/impfungen-lehrer-erzieher-101.html",
+        "question": "Welche primäre strategische Begründung, jenseits des reinen Individualschutzes, führte zur vorgezogenen Impfpriorisierung bestimmter Berufsgruppen im Bildungs- und Betreuungssektor?"
+    },
+    {
+        "a": "Die allgemeine Verpflichtung, Bereitschaftsdienste ausschließlich als Ruhezeit zu werten, um die Flexibilität der Arbeitgeber zu erhöhen.",
+        "b": "Die Unterscheidung zwischen aktiven und inaktiven Phasen eines Bereitschaftsdienstes, wobei die Einstufung als Arbeitszeit primär an die aktive Phase gebunden ist.",
+        "c": "Die Einführung einer festen pauschalen Vergütung für alle Bereitschaftsdienste, unabhängig von deren Dauer oder Intensität.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/leiharbeit-ts-110.html",
+        "question": "Welche spezifische Neuerung führte die Europäische Union bezüglich der Einstufung von Bereitschaftsdiensten als Arbeitszeit ein, um früheren rechtlichen Vorgaben Rechnung zu tragen?"
+    },
+    {
+        "a": "Elf Bergleute, nachdem sie zwei Wochen lang eingeschlossen waren.",
+        "b": "Fünfzehn Bergleute, nachdem sie drei Wochen lang eingeschlossen waren.",
+        "c": "Dreiunddreißig Bergleute, nachdem sie mehr als zwei Monate lang eingeschlossen waren.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/wundervonlengede-ts-100.html",
+        "question": "Welche Anzahl von Personen wurde bei einem historischen deutschen Bergbauzwischenfall, der als 'Wunder' bekannt ist, erfolgreich aus der Tiefe gerettet und wie lange verbrachten sie vor ihrer Bergung unter Tage?"
+    },
+    {
+        "a": "Ihre Realisierung wurde an die Bedingung geknüpft, dass im Gegenzug neue Einnahmequellen erschlossen werden mussten.",
+        "b": "Die geplanten Maßnahmen durften die vom Internationalen Währungsfonds festgelegten Defizitgrenzen nicht überschreiten.",
+        "c": "Eine Umsetzung war erst nach einer erfolgreichen Privatisierung von Staatsunternehmen in Höhe von mindestens fünf Milliarden Euro möglich.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/griechenland-365.html",
+        "question": "Welche spezifische Bedingung wurde für die Umsetzung der von der griechischen Regierung beabsichtigten sozialen Wohltaten, wie Rentenerhöhungen, hervorgehoben, obwohl die EU-Kommission die Reformvorschläge zunächst als „ausreichend“ bewertete?"
+    },
+    {
+        "a": "Eine signifikante Schwächung der Einflussnahme Russlands auf die syrische Regierung und Militärstrukturen.",
+        "b": "Eine verstärkte regionale Präsenz und Einflussnahme des Iran, die zuvor durch die internationale Militärpräsenz eingeschränkt war.",
+        "c": "Die Konsolidierung einer stabilen, unabhängigen Pufferzone unter internationalem Mandat an der syrisch-türkischen Grenze.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/syrien-abzug-interview-101.html",
+        "question": "Welche langfristige geopolitische Verschiebung in Syrien wird nach Einschätzung des ARD-Korrespondenten durch den Abzug von Schutzmächten begünstigt, die über die direkte Betroffenheit lokaler Milizen hinausgeht?"
+    },
+    {
+        "a": "Die rückwirkende gesetzliche Erzwingung der Beteiligung privater Gläubiger an einem Schuldenschnitt.",
+        "b": "Ein unzureichendes Sparpaket, das die Anforderungen internationaler Kreditgeber nicht erfüllt.",
+        "c": "Eine unerwartet hohe Neuverschuldung, die die staatlichen Finanzprognosen deutlich übersteigt.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/griechenlandrating-ts-102.html",
+        "question": "Welche spezifische Maßnahme eines Staates, die auf die Beteiligung privater Gläubiger an einer Schuldenrestrukturierung abzielt, kann eine Ratingagentur dazu veranlassen, die Kreditwürdigkeit dieses Staates als 'teilweise zahlungsunfähig' einzustufen, auch wenn die Restrukturierung zur Entlastung dienen soll?"
+    },
+    {
+        "a": "Die Linke",
+        "b": "Bündnis 90/Die Grünen",
+        "c": "FDP",
+        "correct_answer": "c",
+        "id": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-ts-594.html",
+        "question": "Welche der genannten Parteien verzeichnete Anfang 2012 einen geringfügigen Aufwärtstrend in der Wählergunst, befand sich jedoch laut Prognosen noch unter der parlamentarischen Einzugsschwelle?"
+    },
+    {
+        "a": "Sie sollte ausschließlich den Börsenhandel mit Derivaten betreffen, um Spekulationen einzudämmen.",
+        "b": "Sie sollte möglichst alle Finanzinstrumente und den außerbörslichen Handel erfassen.",
+        "c": "Die Steuer sollte eine progressive Rate haben, die mit dem Transaktionsvolumen steigt.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/finanztransaktionssteuer-ts-110.html",
+        "question": "Welches Merkmal sollte die Finanztransaktionssteuer gemäß den Äußerungen des deutschen Finanzministers aufweisen, um Ausweichreaktionen zu verhindern?"
+    },
+    {
+        "a": "Der Sieg des Countertenors JJ mit seiner Pop-Arie \"Wasted Love\".",
+        "b": "Das Erreichen des vierten Platzes durch Michael Schulte mit seinem emotionalen Beitrag.",
+        "c": "Die herausragende technische Bühnenpräsentation des Duos Abor & Tynna.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/kultur/engels-esc-100.html",
+        "question": "Welche spezifische Leistung eines Künstlers im vorherigen Wettbewerb führte dazu, dass ein bestimmtes Land die Ausrichtung des Eurovision Song Contest übernahm?"
+    },
+    {
+        "a": "Eine prozentuale Erhöhung der Gehälter gekoppelt mit einem fixen Mindestbetrag pro Monat.",
+        "b": "Ausschließlich eine gestaffelte prozentuale Erhöhung, die nach Einkommensgruppen variiert.",
+        "c": "Die Einführung eines Inflationsausgleichs als einmalige Sonderzahlung zusätzlich zur regulären Gehaltsanpassung.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/warnstreik-oeffentlicherdienst-103.html",
+        "question": "Welche spezifische Forderung bezüglich der Entlohnung wurde von den beteiligten Gewerkschaften im Rahmen der Tarifauseinandersetzung im öffentlichen Dienst erhoben, die über einen reinen Prozentsatz hinausging?"
+    },
+    {
+        "a": "Die Umwandlung des EFSF in eine Bank zur direkten Refinanzierung bei der Europäischen Zentralbank.",
+        "b": "Die Einführung einer direkten Anleihenkaufoption durch den EFSF auf dem Sekundärmarkt ohne Beteiligung weiterer Institutionen.",
+        "c": "Die Schaffung einer neuen europäischen Agentur zur Rating-Bewertung von Staatsanleihen, um das Vertrauen der Investoren zu stärken.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/efsf-ts-114.html",
+        "question": "Im Rahmen der Debatte über die Stärkung der Europäischen Finanzstabilitätsfazilität (EFSF) durch einen Kredithebel, welcher spezifische Vorschlag zur Hebelwirkung wurde von einem bedeutenden Mitgliedsstaat eingebracht, der jedoch von einem anderen prominenten Mitgliedsstaat als nicht verhandelbar abgelehnt wurde?"
+    },
+    {
+        "a": "Die Einführung einer bindenden Referendumsabstimmung über jeden endgültigen Austrittsvertrag, die über die Regierung hinausging.",
+        "b": "Die Zulassung eines Antrags, der die Regierung verpflichtete, nach einer Ablehnung des Austrittsabkommens zeitnah einen alternativen Plan vorzulegen.",
+        "c": "Die Begrenzung der Redezeit für Regierungsmitglieder, um der Opposition mehr Einfluss in wichtigen Debatten zu verschaffen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/john-bercow-101.html",
+        "question": "Welche spezifische prozedurale Entscheidung des Unterhaus-Speakers während der Brexit-Debatten führte zu Anschuldigungen, er habe mit parlamentarischen Traditionen gebrochen, diente aber laut ihm der Stärkung der Rolle des Parlaments?"
+    },
+    {
+        "a": "Die Feststellung, dass keine alternative Regierungskoalition eine stabile Mehrheit im Bundestag bilden kann.",
+        "b": "Die ausdrückliche und schriftliche Zustimmung des Bundeskanzlers zur Auflösung des Parlaments.",
+        "c": "Eine vorherige Konsultation des Bundesverfassungsgerichts, das die Rechtmäßigkeit der Auflösung bestätigt.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-neuwahl-102.html",
+        "question": "Welche zusätzliche verfassungsrechtliche Voraussetzung ist für den Bundespräsidenten entscheidend, um nach einer gescheiterten Vertrauensfrage des Bundeskanzlers die Auflösung des Bundestages innerhalb der im Grundgesetz vorgesehenen Frist zu legitimieren?"
+    },
+    {
+        "a": "Sie positioniert sich als einzige Verfechterin der unbequemen Wahrheit gegenüber einem System korrupter Eliten.",
+        "b": "Sie distanziert sich öffentlich und entschuldigt sich regelmäßig für alle von ihr getätigten umstrittenen Aussagen.",
+        "c": "Sie konzentriert ihre gesamte Kampagne auf die detaillierte Vorstellung komplexer, wirtschaftspolitischer Reformen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/portraetlepen-ts-100.html",
+        "question": "Welcher spezifische Ansatz kennzeichnet die politische Kommunikationsstrategie einer prominenten französischen Rechtspolitikerin, um Zustimmung zu finden, auch angesichts kontroverser Äußerungen?"
+    },
+    {
+        "a": "Um die Verhandlungsposition der Europäischen Union im bevorstehenden Gipfel zu stärken.",
+        "b": "Weil die internen Finanzierungsmechanismen der EU für solche Zwecke noch nicht abschließend festgelegt waren.",
+        "c": "Um eine mögliche Übernahme unverhältnismäßiger Lasten seitens der EU im Vergleich zu anderen Industrienationen zu vermeiden.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wissen/klima/eugipfel-ts-232.html",
+        "question": "Welche strategische Begründung führte ein führender Vertreter der EU an, um vor einer wichtigen internationalen Klimakonferenz keine konkrete Finanzsumme für die Unterstützung von Entwicklungsländern beim Klimaschutz öffentlich zu beziffern?"
+    },
+    {
+        "a": "Eine mögliche Neuauflage der Großen Koalition unter geänderten Vorzeichen.",
+        "b": "Die Bildung eines Linksbündnisses in Bremen als Modell für eine zukünftige bundesweite Koalition.",
+        "c": "Die Stärkung der Oppositionsrolle zur Vorbereitung auf eine Minderheitsregierung auf Bundesebene.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/europawahl/analyse-spd-europawahl-bremenwahl-101.html",
+        "question": "Welche strategische Überlegung innerhalb der SPD wurde im Kontext der Bremer Landtagswahl nach den schlechten Ergebnissen als mögliche Blaupause für die Bundespolitik genannt?"
+    },
+    {
+        "a": "Eine Steigerung der privaten Konsumausgaben und eine Erhöhung der Staatsausgaben.",
+        "b": "Ein Rückgang der Unternehmensinvestitionen und eine verlangsamte Entwicklung des Außenhandels.",
+        "c": "Eine starke Zunahme der Exportaktivitäten bei einer gleichzeitigen Drosselung der Importe.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/bip-quartal-ts-100.html",
+        "question": "Welche beiden Hauptfaktoren wurden in einem Analysezeitraum als entscheidend für den Rückgang der Wirtschaftsleistung in Deutschland benannt?"
+    },
+    {
+        "a": "Die Überzeugung, dass die Partei durch seine umfassende Erfahrung und langjährige politische Karriere gestärkt wird.",
+        "b": "Die strategische Einschätzung, dass der Fokus auf die Schwächen des Oppositionskandidaten effektiver ist als ein Wechsel der eigenen Führung.",
+        "c": "Das Fehlen einer eindeutig überzeugenden und breit akzeptierten Alternative innerhalb der Partei, die eine realistische Chance auf einen Wahlsieg hätte.",
+        "correct_answer": "c",
+        "id": "https://www.tagesschau.de/ausland/biden-demokraten-unterstuetzung-100.html",
+        "question": "Was wird in politischen Kreisen als ein wesentlicher pragmatischer Grund für die anhaltende Unterstützung eines amtierenden Präsidenten durch seine Partei genannt, auch wenn seine jüngsten öffentlichen Auftritte Bedenken hinsichtlich seiner Eignung aufwerfen?"
+    },
+    {
+        "a": "Die Einführung einer Pflicht zur Beteiligung an den gemeinsamen Haushalten ohne Mitspracherecht.",
+        "b": "Ein automatischer Ausschluss des Staates zu einem festgesetzten Datum, sollte er sich nicht an den Europawahlen beteiligen.",
+        "c": "Die Verhängung von Sanktionen, die den Handel mit dem betreffenden Staat einschränken würden.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/eu-brexit-161.html",
+        "question": "Welche spezifische Regelung war im Gespräch, um zu verhindern, dass ein sich im Austrittsprozess befindlicher Mitgliedstaat die Funktionsfähigkeit der Europäischen Union durch das Nicht-Wahrnehmen einer zentralen demokratischen Pflicht beeinträchtigt?"
+    },
+    {
+        "a": "Die Körperschaftsteuer, aufgrund unerwartet hoher Gewinne weniger betroffener Unternehmen.",
+        "b": "Die im Inland erhobene Mehrwertsteuer, durch eine starke Binnennachfrage und gezielte Konsumanreize.",
+        "c": "Die Lohnsteuer, da die Arbeitsplatzstabilität wider Erwarten hoch blieb.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/steuerminus-ts-100.html",
+        "question": "Welche der folgenden Steuerarten verzeichnete im Krisenjahr 2009 entgegen dem allgemeinen Trend der rückläufigen Staatseinnahmen eine signifikante Steigerung der Einnahmen im Inland?"
+    },
+    {
+        "a": "Es ist der größte Arbeitgeber des Landes und betreibt umfangreiche Unternehmen in zivilen Sektoren wie der Industrie, dem Hotelgewerbe und dem Tourismus.",
+        "b": "Es verwaltet die nationalen Energieressourcen und kontrolliert deren Exportmärkte zur Devisenbeschaffung.",
+        "c": "Es hat die Aufsicht über alle ausländischen Investitionen und entscheidet über die Vergabe großer Entwicklungsprojekte.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/militaer-ts-100.html",
+        "question": "Welche signifikante wirtschaftliche Rolle spielt das ägyptische Militär neben seinen traditionellen Verteidigungsaufgaben?"
+    },
+    {
+        "a": "Die vollständige Entwaffnung der Hisbollah und deren Umwandlung in eine rein politische Partei.",
+        "b": "Die Umsetzung der UN-Resolution 1701 und eine verstärkte Präsenz der libanesischen Armee im südlichen Grenzgebiet.",
+        "c": "Einen sofortigen und bedingungslosen Abzug aller israelischen Streitkräfte aus dem gesamten libanesischen Territorium.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/asien/israel-libanon-gespraeche-baalbek-100.html",
+        "question": "Welche spezifischen Bedingungen nannte der geschäftsführende Ministerpräsident des Libanon für eine mögliche Waffenruhe zur Stabilisierung der Grenzregion?"
+    },
+    {
+        "a": "Der Einsatz von spezialisierten Webdiensten, die öffentliche Inhalte aggregieren und in Echtzeit anzeigen, ohne eine Registrierung auf der Ursprungsplattform zu erfordern.",
+        "b": "Eine von der Plattform selbst bereitgestellte Funktion für anonymes Browsing, die allerdings die Interaktionsmöglichkeiten stark einschränkte.",
+        "c": "Die temporäre Freischaltung aller Inhalte für die Öffentlichkeit durch die Plattformbetreiber als Reaktion auf das erhöhte Informationsbedürfnis während der Krise.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/twitteriran-ts-100.html",
+        "question": "Welches Merkmal der Informationsverbreitung über soziale Medien ermöglichte es Beobachtern während bestimmter politischer Ereignisse, die Inhalte passiv zu verfolgen, ohne einen eigenen Account auf der Plattform besitzen zu müssen?"
+    },
+    {
+        "a": "Die Finanztransaktionssteuer",
+        "b": "Die Finanzaktivitätssteuer",
+        "c": "Eine spezielle Abgabe auf die Gesamtbilanzsumme von Finanzinstituten",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/finanzmarkt-ts-110.html",
+        "question": "Welches der im Artikel diskutierten Steuerkonzepte für den Finanzsektor ist laut Expertenmeinung maßgeblich darauf ausgelegt, die 'obsessive kurzfristige Orientierung' und damit verbundene computergestützte Geschäfte an den Finanzmärkten zu reduzieren?"
+    },
+    {
+        "a": "Die Asylbehörde war verpflichtet, den Schutzstatus ohne eigene Begründung und lediglich auf Anordnung der Sicherheitsbehörden zu entziehen.",
+        "b": "Es wurde den Betroffenen die Akteneinsicht vollständig verwehrt, selbst wenn die Informationen nicht geheimhaltungsbedürftig waren.",
+        "c": "Es gab keine Möglichkeit für eine gerichtliche Überprüfung der Entscheidung nach der Aberkennung des Status.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/europa/eugh-asylrecht-101.html",
+        "question": "Welche spezifische Beanstandung äußerte der Europäische Gerichtshof (EuGH) hinsichtlich des ungarischen Verfahrens zur Aberkennung des Schutzstatus bei nationalen Sicherheitsbedenken?"
+    },
+    {
+        "a": "Die Tatsache, dass ihre elementaren Bestandteile oft auf dem freien Markt erhältlich sind und relativ einfach missbraucht werden können.",
+        "b": "Die hohe Komplexität der Syntheseverfahren, die nur von wenigen Experten weltweit beherrscht werden.",
+        "c": "Die extrem lange Haltbarkeit dieser Waffen, die eine Entsorgung fast unmöglich macht.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/chemiewaffen-ts-104.html",
+        "question": "Welche grundlegende Eigenschaft von chemischen Kampfstoffen erschwert deren globale Kontrolle und fördert das Risiko ihrer Verbreitung, insbesondere an nicht-staatliche Akteure, trotz internationaler Verbote und Regulierungen?"
+    },
+    {
+        "a": "Einlagen über 100.000 Euro in den griechischen Filialen wurden von der geplanten Zwangsabgabe ausgenommen, während diese auf Zypern zur Anwendung kam.",
+        "b": "Alle Einlagen in den griechischen Filialen wurden durch eine Staatsgarantie der griechischen Regierung vollständig abgesichert.",
+        "c": "Der Kapitalverkehr für alle ausländischen Filialen wurde dauerhaft und umfassend eingeschränkt, um eine Kapitalflucht zu verhindern.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/zypern-ts-166.html",
+        "question": "In Bezug auf die Sanierungsmaßnahmen für zyprische Banken während der Krise, welche entscheidende Unterscheidung wurde bei der Behandlung von Einlagen gemacht, die in Filialen außerhalb Zyperns gehalten wurden, im Vergleich zu denen im Heimatland?"
+    },
+    {
+        "a": "Das Prinzip der Gewaltenteilung zwischen Legislative und Exekutive auf kommunaler Ebene.",
+        "b": "Die Gewährleistung der kommunalen Selbstverwaltung und die klare Zurechenbarkeit staatlicher Aufgaben für die Bürger.",
+        "c": "Das Recht auf Chancengleichheit bei der Arbeitsvermittlung für Langzeitarbeitslose.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/jobcenter-ts-102.html",
+        "question": "Welches zentrale verfassungsrechtliche Prinzip wurde durch die ursprüngliche Organisationsform deutscher Jobcenter, die vor der Reformdebatte zur Diskussion stand, gemäß einem Urteil des Bundesverfassungsgerichts als verletzt angesehen?"
+    },
+    {
+        "a": "Die Zeit unmittelbar nach dem Abzug der US-Truppen im Jahr 2011, als eine neue Regierung die Kontrolle übernahm.",
+        "b": "Der Zeitraum bis Ende 2008, nachdem eine Truppenaufstockung von Präsident Bush zur Eindämmung der Gewalt führte.",
+        "c": "Die Periode nach dem syrischen Bürgerkrieg, als internationale Kräfte zur Bekämpfung des IS eingriffen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/trump-hadley-interview-101.html",
+        "question": "Im Kontext der Nachkriegsentwicklung im Irak, welche Phase wurde von einem ehemaligen US-Sicherheitsberater als Moment der Stabilität hervorgehoben, bevor spätere Entscheidungen eine erneute Destabilisierung bewirkten?"
+    },
+    {
+        "a": "Es wäre das erste Mal seit 85 Jahren gewesen, dass dieses spezifische Gebiet direkt von einem Hurrikan getroffen wird.",
+        "b": "Die Bewohner waren aufgrund eines politischen Konflikts nicht in der Lage, sich rechtzeitig auf den Sturm vorzubereiten.",
+        "c": "Die Infrastruktur war bereits durch einen Erdbeben in den Wochen zuvor so stark beschädigt, dass kein Schutz mehr bestand.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/hurrikan-maria-113.html",
+        "question": "Welche historische Besonderheit kennzeichnete die direkte Bedrohung durch Hurrikan „Maria“ für ein bestimmtes US-Außengebiet in der Karibik?"
+    },
+    {
+        "a": "Es muss nachweislich eine Rechtschutzlücke bestehen, weil alle zumutbaren Versuche, die direkten Verantwortlichen der Inhalte (Content- oder Host-Provider) zur Rechenschaft zu ziehen, erfolglos blieben.",
+        "b": "Die betroffenen Inhalte müssen eine strafrechtlich relevante Relevanz aufweisen, die über eine bloße Urheberrechtsverletzung hinausgeht, wie z.B. Kinderpornografie.",
+        "c": "Der Access-Provider muss eine technische Möglichkeit zur Sperrung anbieten können, die eine selektive Blockade der illegalen Inhalte ohne Beeinträchtigung legaler Angebote gewährleistet.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/bgh-haftung-provider-103.html",
+        "question": "Welche Bedingung muss laut einem Urteil des Bundesgerichtshofs zwingend erfüllt sein, bevor ein Internet-Zugangsprovider (Access-Provider) zur Sperrung von urheberrechtsverletzenden Inhalten verpflichtet werden kann?"
+    },
+    {
+        "a": "Die Anordnung ist ausschließlich bei Gefährdern zulässig, deren Aktivitäten dem Bereich des internationalen Terrorismus zugeordnet werden.",
+        "b": "Die Maßnahme kann nur bei Gefährdern angewendet werden, die bereits wegen schwerer politisch motivierter Straftaten verurteilt wurden.",
+        "c": "Das BKA darf die Fußfessel nur anordnen, wenn es sich um Gefährder handelt, die eine bundesweite Gefahr darstellen und deren Überwachung die Länderkompetenzen übersteigt.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/bundestag-sicherheitspaket-101.html",
+        "question": "Gemäß den neuen Sicherheitsgesetzen in Deutschland, welche spezifische Zuständigkeit begrenzt die Befugnis des Bundeskriminalamtes (BKA), die elektronische Aufenthaltsüberwachung (Fußfessel) bei sogenannten Gefährdern anzuordnen?"
+    },
+    {
+        "a": "Die beabsichtigte Beendigung der staatlichen Unterstützung für die Kohleindustrie dieses Mitgliedstaates.",
+        "b": "Die Forderung nach einer verpflichtenden Erhöhung des Renteneintrittsalters in allen Mitgliedstaaten, die diesen Sektor besonders betraf.",
+        "c": "Die vorgeschriebene Privatisierung der öffentlichen Daseinsvorsorge, welche zu massivem Personalabbau führte.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/bruessel-ts-100.html",
+        "question": "Welche spezielle politische Entscheidung der Europäischen Kommission mobilisierte eine signifikante Anzahl von Arbeitnehmern aus einem spezifischen EU-Mitgliedstaat zu den europaweiten Protesten gegen Sparpolitik in Brüssel?"
+    },
+    {
+        "a": "Ihr Bestreben, ein politisches Erbe zu hinterlassen, das über den üblichen Konsens hinausgeht, um künftige Generationen zu motivieren.",
+        "b": "Die Erkenntnis, dass das bisherige Festhalten an Konsenspolitik Modernisierungsprozesse in Deutschland blockiert hatte, führte zu einer fundamentalen Umorientierung.",
+        "c": "Die Freiheit von der Notwendigkeit, sich einer erneuten Bundestagswahl stellen zu müssen, ermöglichte ihr eine ungefiltertere Kommunikation.",
+        "correct_answer": "c",
+        "id": "https://www.tagesschau.de/inland/merkel-bundestag-155.html",
+        "question": "Welcher persönliche Umstand wird im Artikel als maßgeblich für die während einer Generaldebatte gezeigte ungewöhnliche Offenheit der Kanzlerin bei der Benennung politischer Defizite hervorgehoben?"
+    },
+    {
+        "a": "Die komplexen und kapitalintensiven Produktionsverfahren, die eine Risikoaufteilung unter den Herstellern notwendig machen.",
+        "b": "Die Tatsache, dass Zement ein genormtes Produkt mit einheitlicher Qualität ist, wodurch der Preis zum primären Wettbewerbsinstrument wird.",
+        "c": "Die regional stark variierenden Transportkosten, die eine lokale Monopolbildung fördern und Absprachen erleichtern.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/zementkartell-ts-100.html",
+        "question": "Welcher intrinsische Faktor des Produktes Zement wird in der Analyse der Kartellanfälligkeit der Branche als wesentlicher Grund für Preisabsprachen hervorgehoben?"
+    },
+    {
+        "a": "Die Begünstigung von Rentnern durch Aufschwünge bei gleichzeitiger Abschirmung vor den Folgen von Abschwüngen, im Gegensatz zu Arbeitnehmern.",
+        "b": "Die Notwendigkeit für die junge Generation, höhere Beiträge zu leisten, um die bestehenden Garantien für aktuelle Rentner zu finanzieren.",
+        "c": "Die Forderung nach einer vollständigen Abschaffung der Rentengarantie, da sie die langfristige Finanzierbarkeit des Rentensystems gefährdet.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/jahresgutachten-ts-100.html",
+        "question": "Welchen spezifischen Aspekt der gesetzlichen Rentengarantie kritisierten Ökonomen als schwer vermittelbar für die jüngere Generation, insbesondere im Hinblick auf die Verteilung von wirtschaftlichen Risiken und Gewinnen?"
+    },
+    {
+        "a": "Die Fälligkeit von sieben Milliarden Dollar, die für den Schuldendienst gegenüber Rüstungsherstellern bestimmt sind.",
+        "b": "Die Zahlung von sechs Milliarden Dollar an Zinsen für Staatsanleihen.",
+        "c": "Ein Defizit von elf Milliarden Dollar bei der Auszahlung von Bundesrenten.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/usa-schuldenobergrenze-ts-100.html",
+        "question": "Welches spezifische finanzielle Ereignis war im Falle einer anhaltenden politischen Blockade in den USA für den 31. Oktober prognostiziert, dessen Ausbleiben das weltweite Finanzsystem erschüttern könnte?"
+    },
+    {
+        "a": "Das Jahr des Endes des Kalten Krieges und der deutschen Wiedervereinigung.",
+        "b": "Das Jahr, dessen Geschehnisse genau zwei Jahrzehnte vor der Veröffentlichung der Reihe stattfanden.",
+        "c": "Das Jahr des Übergangs ins neue Millennium, verbunden mit großen Erwartungen und Ängsten.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/multimedia/tsvorzwanzigjahren-113.html",
+        "question": "Welches konkrete Jahr wird in einer speziellen Reihe einer bekannten deutschen Nachrichtensendung Tag für Tag durch die Ausstrahlung ihrer 20-Uhr-Sendungen retrospektiv aufbereitet?"
+    },
+    {
+        "a": "Sie wurde als erste Mehrparteienregierung Islands von einer Frau geführt.",
+        "b": "Sie stellte eine der wenigen Regierungen seit 2008 dar, die eine volle Legislaturperiode ohne vorzeitige Neuwahlen absolvierte.",
+        "c": "Sie führte die Nation durch eine Phase starker wirtschaftlicher Expansion ohne jegliche Haushaltsdefizite.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/europa/island-wahl-113.html",
+        "question": "Welche Besonderheit kennzeichnete die Amtszeit der isländischen Regierung vor der Wahl 2021 im Kontext der vorhergehenden politischen Landschaft?"
+    },
+    {
+        "a": "Es handelte sich um spontane Aufstände der lokalen Bevölkerung, die von Kiew unterdrückt wurden.",
+        "b": "Die Aktionen stellten eine orchestrierte Kampagne mit externer Unterstützung dar.",
+        "c": "Sie waren Ausdruck einer breiten Bewegung für eine unabhängige Donbass-Region ohne russische Beteiligung.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/ukraine-russland-ts-102.html",
+        "question": "Welche Einschätzung vertrat die US-Regierung hinsichtlich der Natur der pro-russischen Aktivitäten in der Ostukraine während der diplomatischen Gespräche mit Russland?"
+    },
+    {
+        "a": "7,2 Milliarden Euro",
+        "b": "12,5 Milliarden Euro",
+        "c": "5,0 Milliarden Euro",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/griechenland-511.html",
+        "question": "Welche spezifische Summe an Hilfsgeldern war für Griechenland im Frühjahr 2015 unmittelbar blockiert und vom Abschluss einer Einigung über Reformvorschläge abhängig?"
+    },
+    {
+        "a": "Ein anhaltender Wintersturm mit starken Schneefällen und Eisglätte in den Gebirgspässen.",
+        "b": "Zuvor durch heftige Überschwemmungen verursachte Erdrutsche, die primäre Zufahrtswege blockierten.",
+        "c": "Eine politische Blockade seitens der Regierung, die den Einsatz von Hilfsgütern verhinderte.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/asien/erdbeben-afghanistan-110.html",
+        "question": "Welcher spezifische, vor dem Erdbebenereignis liegende Umstand, erschwerte die Zugänglichkeit der betroffenen Regionen in Afghanistan für Rettungskräfte maßgeblich?"
+    },
+    {
+        "a": "Die Einführung eines Notstandsgesetzes zur sofortigen Beendigung der Mitgliedschaft in der EU ohne Übergangsphase.",
+        "b": "Eine gesetzliche Verankerung, die eine Verlängerung der Übergangsphase nach dem Austritt über das Jahresende 2020 hinaus kategorisch ausschließt.",
+        "c": "Die Festlegung eines bindenden Termins für ein nationales Referendum über die Zustimmung zum Freihandelsabkommen mit der EU.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/london-unterhaus-103.html",
+        "question": "Welche konkrete legislative Maßnahme strebte die britische Regierung unter Boris Johnson unmittelbar nach ihrer Wahl an, um den geplanten Brexit-Zeitplan zu fixieren und die Verhandlungen mit der EU zu beschleunigen?"
+    },
+    {
+        "a": "Bei den USA war ein bemerkenswerter Rückgang des Vertrauens zu verzeichnen.",
+        "b": "China konnte einen deutlichen Zuwachs an Vertrauen verbuchen.",
+        "c": "Russland zeigte einen signifikanten Anstieg im Vertrauensniveau.",
+        "correct_answer": "c",
+        "id": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-1515.html",
+        "question": "Welches Muster im Vertrauen der deutschen Bevölkerung gegenüber einem der folgenden internationalen Partnerländer konnte in einer aktuellen Umfrage im Vergleich zu früheren Erhebungen festgestellt werden?"
+    },
+    {
+        "a": "Eine verstärkte Entwicklung und Erprobung von neuartigen konventionellen Waffensystemen wird ermöglicht.",
+        "b": "Das Land gewinnt Spielraum in dem militärischen Bereich, in dem es als ebenbürtig oder überlegen gegenüber seinen Hauptkonkurrenten angesehen wird.",
+        "c": "Die Glaubwürdigkeit des Landes als verlässlicher Partner in globalen Sicherheitsfragen wird erhöht, was zu neuen Allianzen führt.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/europa/putin-rede-149.html",
+        "question": "Welchen strategischen Vorteil kann die Aussetzung internationaler Rüstungskontrollabkommen für eine Nation generieren, die sich in Konkurrenz zu etablierten Weltmächten befindet?"
+    },
+    {
+        "a": "Der marktbeherrschende Anbieter muss seine proprietären Code-Bibliotheken vollständig offenlegen.",
+        "b": "Lizenzgebühren für Schnittstelleninformationen wurden gedeckelt und eine umfassende Informationspflicht für die Anbindung von Wettbewerberlösungen eingeführt.",
+        "c": "Alle zukünftigen Software-Updates des marktbeherrschenden Unternehmens müssen vorab von einer unabhängigen Regulierungsbehörde genehmigt werden.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/microsoftauswirkungen-ts-100.html",
+        "question": "Welche signifikante Veränderung in der Interaktion zwischen einem marktbeherrschenden Softwareunternehmen und seinen Wettbewerbern wurde nach einem Gerichtsentscheid bezüglich der Lizenzierung von Schnittstelleninformationen etabliert?"
+    },
+    {
+        "a": "Die überraschende Ablehnung eines gemeinsam erarbeiteten Gesetzesentwurfs zum Artenschutz durch das Agrarministerium kurz vor der Abstimmung im Bundestag.",
+        "b": "Die Stimmabgabe des Agrarministeriums für die Verlängerung einer umstrittenen Wirkstoffzulassung in der EU, trotz expliziter vorheriger Uneinigkeit mit dem Umweltministerium.",
+        "c": "Die eigenmächtige Festlegung von Obergrenzen für den Einsatz bestimmter Pflanzenschutzmittel durch das Agrarressort, die den Vorgaben des Umweltministeriums widersprachen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/glyphosat-verlaengert-103.html",
+        "question": "Welcher spezifische Vorfall führte innerhalb der deutschen Bundesregierung zu einer öffentlichen Kritik der Umweltministerin an ihrem Kabinettskollegen aus dem Agrarressort, bezüglich einer Abstimmung auf EU-Ebene?"
+    },
+    {
+        "a": "Um einer drohenden hohen Kartellstrafe aufgrund angeblicher Behinderung von Wettbewerbern auf dem Gasleitungsmarkt zu entgehen.",
+        "b": "Zur Erfüllung neuer EU-Vorschriften zur Dekarbonisierung des Energiemarktes und zur Förderung erneuerbarer Energien.",
+        "c": "Als strategische Neuausrichtung des Geschäftsmodells, um sich ausschließlich auf die Stromerzeugung zu konzentrieren.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/rwe-ts-106.html",
+        "question": "Aus welchem spezifischen Grund bietet ein großes deutsches Energieversorgungsunternehmen der Europäischen Kommission an, seine Gasnetze zu veräußern?"
+    },
+    {
+        "a": "Der Handel Deutschlands mit dem Iran umfasst hauptsächlich militärische Güter, deren Unterbindung die direkteste Form der Sanktion darstellt.",
+        "b": "Trotz des geringen globalen Handelsvolumens zwischen Deutschland und dem Iran zeigen bereits kleine Reduktionen dieser Wirtschaftsbeziehungen einen deutlichen Rückgang des Wohlstands im Iran auf.",
+        "c": "Die Effektivität der deutschen Sanktionen resultiert primär aus der hohen Abhängigkeit des Irans von deutschen Hochtechnologieprodukten, die nicht substituierbar sind.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/innenpolitik/sanktionen-iran-105.html",
+        "question": "Welche spezifische Erkenntnis wurde bezüglich der Wirksamkeit von Wirtschaftssanktionen gegen den Iran hervorgehoben, insbesondere im Hinblick auf Deutschlands Handelsbeziehungen, obwohl der Iran für Deutschland global gesehen keine vorrangige Handelspartnerposition einnimmt?"
+    },
+    {
+        "a": "Das Bundeswirtschaftsministerium, welches auf eine internationale Standardisierung drängte.",
+        "b": "Das Bundesfinanzministerium, welches eine Harmonisierung auf EU-Ebene forderte.",
+        "c": "Die Finanzminister der Länder, die Bedenken bezüglich der Umsetzbarkeit äußerten.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/manipulierte-ladenkassen-101.html",
+        "question": "Welche der genannten staatlichen Akteure hat nach dem Stand des vorliegenden Berichts die Einführung einer bundesweiten Verpflichtung für manipulationssichere Kassensysteme in bargeldintensiven Branchen maßgeblich verzögert?"
+    },
+    {
+        "a": "Die Befürwortung von Sabotageakten gegen kritische Infrastrukturen als primäres Mittel des Protests.",
+        "b": "Die relativierende Äußerung über eines der größten Menschheitsverbrechen des 20. Jahrhunderts.",
+        "c": "Die Forderung nach einer ausschließlichen Konzentration auf parlamentarische Lobbyarbeit anstelle von zivilem Ungehorsam.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/faktenfinder/extinction-rebellion-143.html",
+        "question": "Welche kontroverse Position eines prominenten Ideengebers einer globalen Umweltbewegung führte zu einer deutlichen Abgrenzung durch Teile ihrer nationalen Organisationen?"
+    },
+    {
+        "a": "Es wurde argumentiert, dass moderne Filtertechnologien inzwischen so ausgefeilt sind, dass eine Umgehung nahezu unmöglich ist.",
+        "b": "Es wurde darauf hingewiesen, dass die technische Expertise der meisten Internetnutzer nicht ausreicht, um Netzsperren effektiv zu umgehen.",
+        "c": "Die Befürworter betonten, dass die psychologische Wirkung von Netzsperren abschreckender sei als ihre technische Unüberwindbarkeit.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/internetsperren-ts-102.html",
+        "question": "Bei der Debatte um die Implementierung von Netzsperren zur Bekämpfung von illegalen Inhalten wurde ein häufig geäußerter Einwand bezüglich der Umgehbarkeit solcher Maßnahmen von den Befürwortern der Sperrstrategie mit welcher spezifischen Begründung widerlegt?"
+    },
+    {
+        "a": "Ein umfassendes Finanzhilfepaket der EU für Libyen und der Aufbau sicherer Auffanglager vor Ort.",
+        "b": "Eine offizielle Erlaubnis der libyschen Einheitsregierung und ein Mandat des UN-Sicherheitsrats.",
+        "c": "Die Einrichtung einer gemeinsamen EU-Libyen-Patrouillenflotte und die Stationierung von EU-Beobachtern in libyschen Häfen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/fluechtlingspolitik-eu-libyen-101.html",
+        "question": "Welche zwei grundlegenden Voraussetzungen werden als unerlässlich betrachtet, damit europäische Marineeinheiten erfolgreich in libyschen Hoheitsgewässern gegen Schlepperbanden vorgehen können?"
+    },
+    {
+        "a": "Sie waren bereits vollständig abgeschafft worden.",
+        "b": "Sie wurden sukzessive abgebaut, sollten aber erst mit Abschluss der Doha-Runde 2013 gänzlich entfallen.",
+        "c": "Sie wurden aufgrund hoher Weltmarktpreise auf einem gleichbleibend niedrigen Niveau eingefroren.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/exportsubventionen-ts-100.html",
+        "question": "Welche spezifische Entwicklung hinsichtlich der Exportsubventionen für Milchprodukte der Europäischen Union war zum Zeitpunkt der Berichterstattung (2008) im Vergleich zu den Vorjahren bereits eingetreten?"
+    },
+    {
+        "a": "Eine Anhörung vor dem Europäischen Gerichtshof bezüglich ihrer früheren Rolle in der Eurogruppen-Verwaltung.",
+        "b": "Eine gerichtliche Entscheidung in Frankreich über die Einleitung von Ermittlungen wegen Amtsmissbrauchs aus ihrer Zeit als Finanzministerin.",
+        "c": "Eine Überprüfung ihrer Qualifikationen durch den UN-Sicherheitsrat aufgrund internationaler Bedenken.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/iwf-ts-136.html",
+        "question": "Welche rechtliche Prüfung stand für Christine Lagarde kurz nach ihrem Amtsantritt als Chefin des Internationalen Währungsfonds (IWF) an, die ihre beginnende Amtszeit potenziell hätte überschatten können?"
+    },
+    {
+        "a": "Die europäischen Regelungen erweitern den Schutz auch auf nichtstaatliche Verfolgung und geschlechtsspezifische Fluchtgründe, die im deutschen Grundrecht nicht explizit enthalten sind.",
+        "b": "Das deutsche Asylrecht nach Artikel 16a bietet einen umfassenderen Schutz vor jeglicher Art von Verfolgung, während das EU-Recht primär Kriegsflüchtlinge berücksichtigt.",
+        "c": "Europäische Asylregelungen legen den Fokus ausschließlich auf die Genfer Flüchtlingskonvention, wohingegen Artikel 16a einen weitergehenden, individuellen Anspruch gewährleistet.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/faktenfinder/asylrecht-weltweit-101.html",
+        "question": "Was unterscheidet das deutsche verfassungsrechtliche Asylrecht nach Artikel 16a Grundgesetz von den harmonisierten europäischen Asylregelungen hinsichtlich des Schutzumfangs, wie von Experten im Kontext der Debatte erläutert?"
+    },
+    {
+        "a": "Die aktuell starke Ausprägung des Klimaphänomens El Niño.",
+        "b": "Eine seit Monaten anhaltende, beispiellose Hitze im Nordatlantik.",
+        "c": "Die verstärkte Freisetzung von Methan aus arktischen Permafrostböden unter dem Meer.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wissen/klima/rekordhitze-weltmeere-100.html",
+        "question": "Welcher Faktor wird als Hauptgrund für die ungewöhnlich hohen globalen Meeresoberflächentemperaturen im August genannt, die die normalerweise dominante Wirkung des südlichen Ozeans übertreffen?"
+    },
+    {
+        "a": "Temporär erhöhte Wettbewerbsfähigkeit durch neue Busanbieter auf diesen Relationen.",
+        "b": "Anhaltende betriebliche Einschränkungen und Bauarbeiten infolge früherer Hochwasserschäden.",
+        "c": "Ein Pilotprojekt zur Einführung eines dynamischen Preissystems, das auf diesen Strecken getestet wurde.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/bahn-ts-168.html",
+        "question": "Welcher spezifische Umstand führte dazu, dass auf bestimmten Fernverkehrsstrecken in Deutschland eine angekündigte Fahrpreiserhöhung, die mit einem Fahrplanwechsel einherging, ausgesetzt wurde?"
+    },
+    {
+        "a": "Die Möglichkeit der Aussperrung von Arbeitnehmern.",
+        "b": "Die Durchsetzung von Tarifverträgen mit anderen, weniger mächtigen Gewerkschaften.",
+        "c": "Die Inanspruchnahme staatlicher Schlichtungsstellen zur Beilegung des Konflikts.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/meldung-ts-5032.html",
+        "question": "Welches traditionelle Instrument der Arbeitgeberseite erweist sich laut Arbeitsrechtler Eduard Picker im Konflikt mit sogenannten 'Funktionseliten' wie Lokführern oder Piloten als weitgehend wirkungslos, obwohl es eigentlich zur Herstellung der Parität im Arbeitskampf gedacht ist?"
+    },
+    {
+        "a": "Eine Wiederholung von Phänomenen wie massiven Überschussproduktionen und Marktsättigung.",
+        "b": "Eine Beeinträchtigung der Exportfähigkeit europäischer Agrarprodukte auf dem Weltmarkt.",
+        "c": "Eine unzureichende finanzielle Unterstützung für benachteiligte Agrarregionen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/eu-agrarreform-ts-102.html",
+        "question": "Welche unerwünschte Entwicklung in der Agrarproduktion sollte nach Ansicht der deutschen Vertretung durch eine vorsichtige Gestaltung von EU-Markteingriffen bei der Agrarreform verhindert werden?"
+    },
+    {
+        "a": "Eine direkte Beteiligung der nationalen Parlamente an allen Entscheidungen der neuen europäischen Aufsichtsbehörde.",
+        "b": "Eine klare Abgrenzung der geldpolitischen Aufgaben von den neuen Aufsichtsfunktionen innerhalb der Europäischen Zentralbank.",
+        "c": "Die ausschließliche Zuständigkeit der nationalen Aufsichtsbehörden für alle systemrelevanten Großbanken in der Eurozone.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/eu-bankenaufsicht-ts-102.html",
+        "question": "Welche spezifische institutionelle Vorkehrung wurde seitens der deutschen Delegation als absolute Notwendigkeit in den Diskussionen um die europäische Bankenaufsicht betont?"
+    },
+    {
+        "a": "Die Fähigkeit des Rechtspopulismus, Ängste und emotionale Reaktionen bei der Wählerschaft zu mobilisieren, die nicht primär auf rationalen Kriterien basieren.",
+        "b": "Die überzeugende Umsetzung konkreter Sachpolitik und Regierungsverantwortung in den Parlamenten, die eine breitere Wählerbasis ansprach.",
+        "c": "Die finanzielle Unabhängigkeit der Partei von staatlichen Zuschüssen, die es ihr ermöglichte, trotz Krisen eine umfangreiche Kampagnenführung zu betreiben.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/innenpolitik/interview-haeusler-zur-afd-101.html",
+        "question": "Welcher fundamentale Aspekt wurde laut soziologischer Einschätzung bei der Vorhersage des Scheiterns einer bestimmten rechtspopulistischen Partei nach internen Führungsstreitigkeiten oft unterschätzt?"
+    },
+    {
+        "a": "Die Notwendigkeit, zunächst das Kerngeschäft des Unternehmens zu sanieren und dessen realen Wert zu steigern, bevor ein Börsengang sinnvoll wäre.",
+        "b": "Die geringe Attraktivität des Unternehmens für internationale Investoren aufgrund negativer Schlagzeilen über Servicequalität und Zuverlässigkeit.",
+        "c": "Eine fehlende politische Rückendeckung für einen solchen Schritt, die für die Stabilität des Unternehmens an der Börse als unerlässlich erachtet wurde.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/grubeinterview-ts-100.html",
+        "question": "Welchen Hauptgrund nannte der damalige Chef eines großen deutschen Transportunternehmens in einem Interview als maßgeblich dafür, dass ein diskutierter Börsengang seines Unternehmens vorerst nicht im Vordergrund stand?"
+    },
+    {
+        "a": "Die Namen des Opfers, der zuständigen Richterin sowie detaillierte Beschreibungen der mutmaßlichen Tatbeteiligten.",
+        "b": "Eine forensische Analyse der Tatwaffe und deren Herkunft, die zur Identifizierung der Täter führte.",
+        "c": "Protokolle interner Polizeibesprechungen, die die Strategie der Einsatzkräfte detailliert darlegten.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/chemnitz-messerangriff-ausschreitungen-103.html",
+        "question": "Welche spezifischen Daten enthielt das im Internet kursierende, authentische Dokument, dessen unautorisierte Veröffentlichung im Zusammenhang mit einem tödlichen Delikt in Chemnitz offizielle Ermittlungen wegen eines Verstoßes gegen die Rechtspflege nach sich zog?"
+    },
+    {
+        "a": "Die Einführung eines verpflichtenden nationalen Wärmepumpen-Ausbauprogramms zur Reduzierung der Abhängigkeit von fossilen Brennstoffen.",
+        "b": "Die Erweiterung der zulässigen Heiztechnologien um wasserstofffähige Gasheizungen, Biomasseheizungen für Neubauten und unter spezifischen Bedingungen auch Ölheizungen.",
+        "c": "Die Festlegung einer verbindlichen Altersgrenze für den Austausch bestehender Heizungsanlagen, um den Innovationsdruck zu erhöhen und die Sanierungsquote zu beschleunigen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/innenpolitik/heizungsgesetz-analyse-100.html",
+        "question": "Welche der folgenden Anpassungen des deutschen Heizungsgesetzes wurde maßgeblich vorgenommen, um dem politischen Ziel einer stärkeren \"Technologieoffenheit\" bei der Wärmeversorgung Rechnung zu tragen?"
+    },
+    {
+        "a": "Die geringere Energiedichte von Bio-Ethanol, die zu einem erhöhten Kraftstoffverbrauch und somit zu mehr Emissionen führt.",
+        "b": "Der zusätzliche Flächenbedarf für den Anbau der Energiepflanzen, der zu Landnutzungsänderungen und damit zu insgesamt höheren CO2-Emissionen führen kann.",
+        "c": "Die Produktion von giftigeren Abgasen im Vergleich zu herkömmlichem Benzin, die die Luftqualität stärker beeinträchtigen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/faqezehn-ts-100.html",
+        "question": "Welchen Hauptgrund führen Umweltorganisationen an, um die ökologische Vorteilhaftigkeit von Biokraftstoffen wie Ethanol in der Gesamtbilanz als 'Mogelpackung' zu bezeichnen, obwohl sie bei der Verbrennung die gleiche Menge CO2 freisetzen, die zuvor gebunden wurde?"
+    },
+    {
+        "a": "Die unzureichende Klärung der Finanzierungsdetails zwischen den beteiligten Ministerien.",
+        "b": "Die ausstehende abschließende Prüfung der Rechtsförmlichkeit des Gesetzentwurfs durch die Bundesregierung.",
+        "c": "Erhebliche Einwände von Seiten der Bundesagentur für Arbeit bezüglich der technischen Machbarkeit der Einführung bis 2025.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/innenpolitik/kindergrundsicherung-kabinett-100.html",
+        "question": "Welche spezifische formale Anforderung im Gesetzgebungsprozess führte laut der SPD-Bundestagsfraktion zu einer unerwarteten Verzögerung bei der parlamentarischen Beratung der Kindergrundsicherung?"
+    },
+    {
+        "a": "Die Überbürdung der Akquisitionsschulden einer Investorengruppe auf das Unternehmen selbst nach dessen Übernahme.",
+        "b": "Anhaltende Misserfolge bei Großproduktionen, die zu massiven Verlusten an den Kinokassen führten.",
+        "c": "Fehlgeschlagene Investitionen in neue Technologien und der Aufbau eigener Streaming-Plattformen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/mgm-ts-100.html",
+        "question": "Welcher primäre Vorgang trug maßgeblich zur immensen Schuldenlast des Filmstudios Metro-Goldwyn-Mayer bei, die letztlich zur Beantragung des Gläubigerschutzes führte?"
+    },
+    {
+        "a": "Die Erörterung sensibler Militärstrategien in einer als unsicher eingestuften digitalen Kommunikationsplattform, in die versehentlich ein externer Journalist hinzugefügt wurde.",
+        "b": "Die Weitergabe klassifizierter Einsatzbefehle über verschlüsselte E-Mails an nicht autorisierte internationale Partner, die später von Hackern abgefangen wurden.",
+        "c": "Das unautorisierte Leaken von geheimen Lageberichten an die Presse durch einen Whistleblower aus dem Verteidigungsministerium, der Zugang zu Top-Secret-Dokumenten hatte.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/amerika/mike-waltz-ruecktritt-100.html",
+        "question": "Welche spezifische Fehlhandlung eines hochrangigen US-Beamten führte zu einer sicherheitsrelevanten Indiskretion bezüglich militärischer Angriffsplanungen und zog weitreichende Konsequenzen nach sich?"
+    },
+    {
+        "a": "Die Entstehung einer dauerhaften humanitären Krise, die zu massiver Migration in andere EU-Staaten führen würde.",
+        "b": "Einen katastrophalen Dominoeffekt, der auch andere südeuropäische Mitgliedstaaten wie Spanien und Italien in akute Gefahr brächte.",
+        "c": "Den vollständigen Verlust der Souveränität Griechenlands durch eine internationale Zwangsverwaltung der Staatsfinanzen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/hollande-samaras-ts-100.html",
+        "question": "Welches drastische Szenario zeichnete der griechische Regierungschef in einem Interview vor seinen Treffen in Paris, um die umfassenden Risiken eines möglichen griechischen Euro-Austritts für die Stabilität Europas hervorzuheben?"
+    },
+    {
+        "a": "Eine gerichtlich angeordnete Schließung aufgrund von Sicherheitsmängeln und Überfüllung.",
+        "b": "Die akute Notwendigkeit zur Durchsetzung von Abstandsregeln im Kontext einer Pandemie.",
+        "c": "Ein von Anwohnern initiiertes Bürgerbegehren, das die Schließung forderte.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/mittendrin/mittendrin-tagesthemen-wedau-101.html",
+        "question": "Welcher spezifische externe Faktor führte zur sofortigen Sperrung einer Grillwiese am Masurensee durch die Stadt Duisburg, obwohl jahrelange Beschwerden über ähnliche Probleme unbeachtet geblieben waren?"
+    },
+    {
+        "a": "Die Bekämpfung des illegalen Waffenschmuggels in einen von Konflikten gezeichneten nordafrikanischen Staat.",
+        "b": "Die direkte humanitäre Versorgung von Flüchtlingslagern an den Küsten Nordafrikas.",
+        "c": "Die Überwachung und Sicherung der Seegrenzen zwischen EU-Mitgliedstaaten zur Verhinderung illegaler Einreise.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/sophia-103.html",
+        "question": "Welcher Hauptzweck wurde einer im Mittelmeer operierenden EU-Militärmission nach einer einstimmigen Entscheidung des UN-Sicherheitsrates und auf Antrag bestimmter Mitgliedsstaaten im Jahr 2016 zusätzlich zugewiesen?"
+    },
+    {
+        "a": "Die durchschnittliche jährliche Geburtenzahl stieg in diesem Zeitraum signifikant an und übertraf den Durchschnitt der Jahre 2010 bis 2014, wobei der höchste Stand der Geburten seit 1997 im unmittelbar folgenden Jahr dieses Zeitraums erreicht wurde.",
+        "b": "Es gab eine kontinuierliche Abnahme der Geburtenzahlen, die nur durch eine hohe Zuwanderung den Kinderanteil stabil hielt.",
+        "c": "Die Geburtenzahlen blieben weitgehend konstant auf dem Niveau der Jahre 2010 bis 2014, was lediglich eine geringfügige Veränderung des Kinderanteils zur Folge hatte.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/inland/gesellschaft/kinder-geburtenrate-statistik-100.html",
+        "question": "Welchen signifikanten Trend bei den jährlichen Geburtenzahlen verzeichnete Deutschland im Zeitraum von 2015 bis 2020 im Vergleich zu den vorherigen fünf Jahren, der maßgeblich zur Entwicklung des Kinderanteils beitrug?"
+    },
+    {
+        "a": "Ein Land kann als sicher gelten, wenn überwiegend stabile politische Verhältnisse herrschen und keine offenkundige Kriegssituation besteht.",
+        "b": "Die Einstufung als sicherer Herkunftsstaat ist nur zulässig, wenn dort alle Menschen, unabhängig ihrer Gruppenzugehörigkeit, ausreichend geschützt sind.",
+        "c": "Es genügt, wenn spezifische vulnerable Personengruppen von beschleunigten Asylverfahren ausgenommen werden, auch wenn sie im Herkunftsland gefährdet sind.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/europa/eugh-albanien-italien-gefluechtete-drittstaaten-102.html",
+        "question": "Welche entscheidende Bedingung legt der Europäische Gerichtshof in seinem aktuellen Urteil fest, damit ein Land unter der derzeitigen europäischen Rechtslage als 'sicherer Herkunftsstaat' eingestuft werden kann?"
+    },
+    {
+        "a": "Die laufenden Verhandlungen über die finanzielle Ausstattung der International Development Association (IDA), welche Entwicklungshilfe für die ärmsten Länder bereitstellt.",
+        "b": "Die jährlichen Haushaltsberatungen des Internationalen Währungsfonds (IWF) im Hinblick auf strukturelle Anpassungsprogramme.",
+        "c": "Die Einberufung einer Ad-hoc-Sitzung der G7-Staaten zur Überprüfung der Kreditvergabepolitik der Weltbank.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/meldung-ts-1322.html",
+        "question": "Welchen spezifischen Verhandlungsrahmen nutzten die EU-Staaten, um im Kontext der Anschuldigungen gegen den damaligen Präsidenten der Weltbank ihre Forderung nach einem 'starken' Weltbankpräsidenten zu untermauern und implizit eine mögliche Reduzierung der Unterstützung anzudeuten?"
+    },
+    {
+        "a": "Nachweis über Sprachkenntnisse und ein Empfehlungsschreiben des Arbeitgebers.",
+        "b": "Abschluss einer teuren Lebensversicherung, Vorlage einer Hotelbuchung und eines bezahlten Rückflugtickets.",
+        "c": "Eine Genehmigung der lokalen Polizeibehörden und eine Bestätigung über ausreichende finanzielle Mittel.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/asien/nepal-frauenrechte-101.html",
+        "question": "Welche zusätzlichen bürokratischen Hürden, abgesehen von der familiären Zustimmung, müssten Frauen in Nepal gemäß eines diskutierten Gesetzentwurfs für eine Auslandsreise überwinden?"
+    },
+    {
+        "a": "Die Delegation der Entscheidungsfindung an eine unabhängige Expertengruppe der Troika.",
+        "b": "Die Durchführung einer Volksabstimmung in Griechenland über die vorgeschlagenen Reformen und Sparmaßnahmen.",
+        "c": "Die Einsetzung eines europäischen Kommissars mit Vetorecht bei nationalen Haushaltsentscheidungen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/griechenland-543.html",
+        "question": "Inmitten der komplexen Verhandlungen über das griechische Reformpaket schlug ein führender europäischer Finanzminister eine unkonventionelle Methode zur Legitimierung der geforderten Maßnahmen vor. Welches Verfahren wurde hierbei in Betracht gezogen?"
+    },
+    {
+        "a": "Eine ungewöhnlich hohe Inflation in Verbindung mit explodierenden Energiekosten.",
+        "b": "Eine allgemeine Wirtschaftsschwäche gepaart mit umfangreichen staatlichen Konjunkturmaßnahmen.",
+        "c": "Deutliche Kürzungen bei den Importzöllen und ein unerwarteter Rückgang der Exportwirtschaft.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/ushaushalt-ts-104.html",
+        "question": "Welche Hauptfaktoren führten laut damaligen Regierungsaussagen zu einer signifikanten Erhöhung und dem Erreichen eines Rekordhochs des projizierten Staatsdefizits in einer führenden Industrienation für das bevorstehende Fiskaljahr?"
+    },
+    {
+        "a": "Die verstärkte militärische Zusammenarbeit innerhalb der Organisation des Vertrags über kollektive Sicherheit.",
+        "b": "Die Etablierung einer Eurasischen Union, die als geopolitische Alternative zur EU positioniert wurde.",
+        "c": "Die Initiierung einer umfassenden strategischen Partnerschaft mit China zur Schaffung eines neuen globalen Machtpols.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/europawahl/wahl/wo-endet-europa-ts-100.html",
+        "question": "Welches politische Projekt Russlands, das nach Wladimir Putins Rückkehr ins Präsidentenamt angekündigt wurde, wurde als deutliches Indiz dafür gewertet, dass die russische Führung keine Annäherung an europäische Strukturen mehr anstrebt, sondern ein Konkurrenzmodell zur Europäischen Union etablieren wollte?"
+    },
+    {
+        "a": "Die Unterstützung von mindestens 21 der 28 EU-Länder im Europäischen Rat und eine Mehrheit im Europäischen Parlament.",
+        "b": "Eine einstimmige Wahl durch den Europäischen Rat und eine Zweidrittelmehrheit in allen nationalen Parlamenten der Mitgliedstaaten.",
+        "c": "Die Billigung durch die Europäische Zentralbank und die Zustimmung der Mehrheit der Bürger in einem EU-weiten Referendum.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/eu-gipfel-389.html",
+        "question": "Welche doppelte Zustimmung ist nach den Erklärungen beteiligter Staats- und Regierungschefs für die Besetzung des Amtes des EU-Kommissionspräsidenten erforderlich, die die Chancen der ursprünglichen Spitzenkandidaten erheblich einschränkte?"
+    },
+    {
+        "a": "Die Sorge, dass die im Programm versprochene Million neuer Arbeitsplätze empirisch nicht haltbar sei und somit die Glaubwürdigkeit der Partei untergrabe.",
+        "b": "Die Befürchtung, dass die Ökologie Gefahr liefe, lediglich als Mittel zum Zweck zur Konjunkturbelebung missverstanden zu werden und ihre existenzielle Bedeutung zu verlieren.",
+        "c": "Die Kritik, dass das Programm zu wenig konkrete Projekte und zu viele abstrakte Ideen enthielt, was es für Wähler schwer verständlich machte.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/interviewloske-ts-102.html",
+        "question": "Welches zentrale Dilemma sprach ein hochrangiger Vertreter der Grünen bezüglich der Ausrichtung des Wahlprogramms an, obwohl dieses die Bewältigung von Wirtschafts- und Klimakrise verknüpfte?"
+    },
+    {
+        "a": "Es weist auf eine stärkere Exportorientierung und den Aufbau von Devisenreserven hin.",
+        "b": "Es deutet auf eine anhaltende Schwäche der internen Nachfrage und des Konsums hin.",
+        "c": "Es signalisiert eine erfolgreiche Substitution importierter Güter durch hochwertige heimische Produkte.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/china-197.html",
+        "question": "Welche Schlussfolgerung lässt sich typischerweise aus einem anhaltend niedrigen Wachstum der Importe für die binnenwirtschaftliche Entwicklung einer großen Volkswirtschaft ziehen?"
+    },
+    {
+        "a": "Tschechien",
+        "b": "Spanien",
+        "c": "Belgien",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/loehne-ts-104.html",
+        "question": "Welches der folgenden Länder verzeichnete im Jahr 2010 eine realwirtschaftliche Lohnentwicklung, die prozentual gesehen signifikant über derjenigen Deutschlands lag?"
+    },
+    {
+        "a": "Die Rechtsabteilung der Bank oder deren externe Anwälte hatten eine frühzeitige Veröffentlichung untersagt.",
+        "b": "Der Vorstandsvorsitzende selbst entschied, die Informationen zurückzuhalten, um den Aktienkurs zu stabilisieren.",
+        "c": "Eine behördliche Anweisung untersagte die Kommunikation von internen Problemstellungen bis zur Klärung der genauen finanziellen Auswirkungen.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/hre-ts-180.html",
+        "question": "Was war ein zentraler Grund, der laut einer Zeugenaussage in einem Schadenersatzprozess die frühzeitige Offenlegung von Finanzproblemen einer großen Immobilienbank durch deren damaligen Vorstandsvorsitzenden verhinderte?"
+    },
+    {
+        "a": "Die EU forderte eine sofortige Privatisierung staatlicher Unternehmen, was Russland nicht verlangte.",
+        "b": "Die dringende Notwendigkeit umfassender Finanzhilfen und vergünstigter Energielieferungen zur Abwendung eines Staatsbankrotts.",
+        "c": "Ein Ultimatum der EU zur sofortigen Einführung des Euros als Landeswährung, was als zu radikal empfunden wurde.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/ukraine-eu-ts-106.html",
+        "question": "Welches ökonomische Dilemma sah sich die Ukraine im Kontext der damaligen Verhandlungen mit der EU und Russland gegenüber, das den Kurswechsel des Präsidenten maßgeblich beeinflusste?"
+    },
+    {
+        "a": "Ein internationaler Zusammenschluss von Pensionsfonds, der auf schnelle Dividendenausschüttungen drängt.",
+        "b": "Ein US-amerikanischer Hedgefonds, der eine große Aktienposition erworben hat und auf vermehrte Investitionen in Öl und Gas drängt.",
+        "c": "Eine Gruppe großer Staatsfonds, die eine Absicherung gegen geopolitische Risiken durch eine diversifizierte Energieproduktion fordert.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/unternehmen/bp-fossile-brennstoffe-investitionen-100.html",
+        "question": "Welcher externe Finanzakteur wird als maßgeblicher Einfluss auf die jüngste strategische Neuausrichtung eines global agierenden Energiekonzerns genannt, der seine Investitionen in fossile Brennstoffe wieder erhöht, nachdem er zuvor ambitionierte Dekarbonisierungsziele verfolgte?"
+    },
+    {
+        "a": "Die effektiv für neue Kriseninterventionen nutzbare Summe überschritt im ersten Jahr nicht die ursprünglich für den dauerhaften Mechanismus vorgesehene Obergrenze von 500 Milliarden Euro, da dessen Kreditvolumen zunächst begrenzt war und weitere Gelder lediglich als befristete Reserve dienten.",
+        "b": "Die aufgestockte Summe von 700 Milliarden Euro stand vollständig und unmittelbar für jegliche neuen Kriseninterventionen zur Verfügung, um die Handlungsfähigkeit der Euro-Zone sofort zu stärken.",
+        "c": "Die neuen verfügbaren Mittel wurden primär dazu genutzt, bereits bestehende Hilfsprogramme vollständig abzulösen, wodurch keine zusätzlichen Kapazitäten für neue Krisen geschaffen wurden.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/merkelrettungsschirm-ts-100.html",
+        "question": "Trotz der Diskussion über eine temporär aufgestockte Summe von etwa 700 Milliarden Euro durch die parallele Laufzeit zweier europäischer Stabilitätsmechanismen, wie verhielt es sich mit den tatsächlich für neue Kriseninterventionen verfügbaren Mitteln im ersten Jahr des dauerhaften Mechanismus?"
+    },
+    {
+        "a": "Die zunehmende technische Möglichkeit zur schnellen Identifizierung anonymer Verfasser von Online-Inhalten.",
+        "b": "Der sogenannte \"Google-Faktor\", bei dem kritische Inhalte in den oberen Suchergebnissen als unmittelbar image-schädigend empfunden werden.",
+        "c": "Eine gestiegene juristische Sensibilisierung der breiten Öffentlichkeit für mögliche Verleumdungen im Internet.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/meldung-ts-3490.html",
+        "question": "Laut Strafverteidiger Udo Vetter, welche spezifische Entwicklung im digitalen Raum führt maßgeblich dazu, dass Unternehmen und Privatpersonen kritische Online-Äußerungen seltener tolerieren und stattdessen verstärkt rechtliche Schritte einleiten?"
+    },
+    {
+        "a": "Die nachgewiesene historische und kulturelle Verbundenheit der Artefakte mit der Hauptstadt des Staates, die den Schatz beanspruchte.",
+        "b": "Die prioritären nationalen Kulturinteressen des beanspruchenden Staates, die jene der lokalen Museen überwiegen, im Einklang mit dessen Museumsgesetz.",
+        "c": "Der Zeitpunkt des Erwerbs der Kulturgüter durch die Museen im Vergleich zur völkerrechtlichen Anerkennung der jeweiligen staatlichen Souveränität.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/europa/krim-gold-103.html",
+        "question": "Was war das ausschlaggebende Kriterium eines europäischen Gerichts bei der Entscheidung über die rechtmäßige Zugehörigkeit eines umstrittenen Kulturgüterschatzes, der vor einer Annexion von der Krim stammte?"
+    },
+    {
+        "a": "Sie forderten den sofortigen Einsatz von Spezialkräften zur gewaltsamen Räumung des Gebäudes.",
+        "b": "Sie übermittelten per Funk die Bitte, dass ihren Familien Abschiedsgrüße überbracht werden sollten.",
+        "c": "Sie riefen dazu auf, sämtliche Fluchtwege zu blockieren, um die Angreifer im Gebäude einzuschließen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/amerika/usa-kapitolsturm-ausschuss-103.html",
+        "question": "Während der Eskalation eines gewaltsamen Ereignisses in der US-Hauptstadt berichteten Personenschützer des Secret Service, die einen hochrangigen Beamten schützten, über eine besonders beunruhigende Maßnahme, die ihre Sorge um das eigene Leben unterstrich. Welche war das?"
+    },
+    {
+        "a": "Die rechtlichen Rahmenbedingungen der Europäischen Union sehen weder den Ausschluss noch den Austritt eines Mitgliedslandes aus der Eurozone vor.",
+        "b": "Es mangelt an der erforderlichen Mehrheit im Europäischen Parlament für eine solche drastische Maßnahme.",
+        "c": "Die Satzung der Europäischen Zentralbank verbietet ausdrücklich jegliche Intervention, die auf einen Ausschluss abzielt.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/griechenland-ts-746.html",
+        "question": "Welche fundamentale rechtliche Grundlage fehlt laut Experten, um ein Mitgliedsland, das sich in einer Finanzkrise befindet, aus der Eurozone auszuschließen?"
+    },
+    {
+        "a": "Ihre detaillierten Schilderungen über die gleichberechtigte Rolle der weiblichen Hauptangeklagten innerhalb des Tätertrios.",
+        "b": "Ihre kritischen Ausführungen zur mangelhaften Aufklärungsarbeit der Sicherheitsbehörden vor und während der Taten.",
+        "c": "Ihr Ausdruck tiefen persönlichen Leidens und ihre empathische Verbundenheit mit den Opfern, die das Gericht emotional beeinflusste.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/kommentar/nsuprozess-ts-102.html",
+        "question": "Welche thematische Besonderheit in der Zeugenaussage der Mutter eines verstorbenen Haupttäters in einem aufsehenerregenden Prozess gegen eine extremistische Terrorgruppe wurde von Beobachtern als entscheidend für die gerichtliche Einschätzung einer weiteren Schlüsselfigur hervorgehoben?"
+    },
+    {
+        "a": "Der Kredit wurde als vorrangige Forderung in der Insolvenzmasse eingestuft.",
+        "b": "Eine Staatshaftung garantierte die gesamten Unternehmenswerte für den Fall der Zahlungsunfähigkeit.",
+        "c": "Die Möglichkeit zur sofortigen Veräußerung profitabler Unternehmensteile war vertraglich festgelegt.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/quelle-ts-168.html",
+        "question": "Welcher spezifische Mechanismus sollte gemäß den Äußerungen der Bundesregierung die Rückzahlung eines gewährten Massekredits an ein in Schwierigkeiten befindliches Unternehmen auch im Falle einer vollständigen Abwicklung sichern?"
+    },
+    {
+        "a": "Die Missachtung von direkten Weisungen des Europäischen Parlaments zur Umschichtung von Haushaltsmitteln.",
+        "b": "Die anhaltend hohe Gesamtverschuldung des Landes in Kombination mit der dennoch geplanten, signifikanten Neuverschuldung.",
+        "c": "Die Ignoranz der Regierung gegenüber einer unabhängigen nationalen Haushaltsaufsicht, die die Wachstumsprognosen als zu optimistisch bewertete.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/italien-haushalt-eu-kommission-101.html",
+        "question": "Welcher Umstand führte dazu, dass der Haushaltsplan eines EU-Mitgliedsstaates von der EU-Kommission als \"beispiellos in der Geschichte des Stabilitäts- und Wachstumspaktes\" kritisiert wurde, obwohl die geplante jährliche Neuverschuldung unterhalb der Maastricht-Grenze von 3 Prozent lag?"
+    },
+    {
+        "a": "Die fortgesetzte Belagerung des Gebiets und das Fehlen von Möglichkeiten für die palästinensische Führung, den Gazastreifen wieder aufzubauen.",
+        "b": "Eine strategische Entscheidung lokaler Gruppen, primär in die Entwicklung militärischer Infrastruktur wie Tunnelsysteme zu investieren.",
+        "c": "Das primäre Ziel der internationalen Hilfsorganisationen, sich auf Soforthilfe statt auf den Bau langfristiger Schutzbauten zu konzentrieren.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/daibes-gaza-ts-100.html",
+        "question": "Welche wesentliche Ursache führte laut der palästinensischen Botschafterin Khouloud Daibes dazu, dass im Gazastreifen keine ausreichenden Schutzräume für die Zivilbevölkerung errichtet werden konnten?"
+    },
+    {
+        "a": "Die zunehmende Akzeptanz von klimabedingten Flugscham-Effekten, die indirekt zu geringeren Buchungen führen.",
+        "b": "Ein intensiver Preiskampf und Überkapazitäten im Markt, die zu sehr niedrigen Ticketpreisen führen.",
+        "c": "Die direkte Auswirkung von verschärften Umweltauflagen und deutlich gestiegenen Treibstoffkosten auf die Betriebsausgaben.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/luftfahrt-passagiere-klima-101.html",
+        "question": "Trotz anhaltenden Passagierwachstums sehen sich führende Luftfahrtunternehmen mit bestimmten ökonomischen Herausforderungen konfrontiert. Welcher spezifische Aspekt wird von einem großen deutschen Airline-Chef als wesentlicher Belastungsfaktor für die Profitabilität genannt?"
+    },
+    {
+        "a": "Die moderne Stahlbetonbauweise und die tiefgehende Fundamentverankerung auf dem Plateau.",
+        "b": "Die Tatsache, dass sich in der unmittelbaren Umgebung des Gebäudes kein Baumbestand befand.",
+        "c": "Die Montage spezieller Sturmsicherungen an den Fenstern, die einen Glasbruch verhinderten.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/inland/meldung-ts-2056.html",
+        "question": "Welche spezifische Gegebenheit am Standort des Hotels „Feldberghof“ trug laut der ARD-Wetterexpertin Silke Hansen dazu bei, dass ihre Sorge um die Sicherheit des Gebäudes während des Orkantiefs „Kyrill“ trotz starker Vibrationen begrenzt blieb?"
+    },
+    {
+        "a": "Ein technischer Defekt in einer militärischen Anlage, verursacht durch Cyberangriffe.",
+        "b": "Ein schwerwiegendes Gasleck, das zu einer Explosion führte.",
+        "c": "Ein fehlgeschlagener Raketentest, der die Explosion auslöste.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/asien/usa-iran-signale-annaeherung-100.html",
+        "question": "Während einer Periode angespannter internationaler Beziehungen, die von gegenseitigen Gesprächsbereitschaften begleitet wurde, ereignete sich in einer strategisch wichtigen Hafenstadt ein Zwischenfall. Welche Ursache wurde nach anfänglichen Spekulationen schließlich als offizielle Erklärung für dieses Ereignis bekannt gegeben?"
+    },
+    {
+        "a": "Die im Fall Syriens fehlende einheitliche Rechtsgrundlage durch eine entsprechende Resolution des UN-Sicherheitsrates.",
+        "b": "Die deutlich stärkere Präsenz und der Einfluss fundamentalistischer Kräfte innerhalb der syrischen Opposition, die eine Intervention erschwerten.",
+        "c": "Die geographische Beschaffenheit Syriens mit Gefechtslinien, die mitten durch die Städte verliefen, was militärische Operationen unmöglich machte.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/ausland/syrien-ts-134.html",
+        "question": "Welcher zentrale Aspekt wurde laut der damaligen politischen Einschätzung als maßgeblicher Unterschied zwischen der internationalen Reaktion auf die Konflikte in Libyen und Syrien benannt, insbesondere im Hinblick auf eine militärische Intervention?"
+    },
+    {
+        "a": "Der sogenannte \"Budget Stabilization Fund\" für unvorhergesehene Ausgaben.",
+        "b": "Ein spezifischer Notfallfonds, dessen Verwendung zuvor bereits in einem Plan des Landwirtschaftsministeriums zur Überbrückung von Haushaltssperren vorgesehen war.",
+        "c": "Eine temporäre Kreditlinie der US-Zentralbank zur Sicherstellung kritischer Sozialleistungen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/amerika/usa-lebensmittelprogramm-100.html",
+        "question": "Welche finanzielle Quelle wurde von US-Bundesrichtern zur Fortführung des SNAP-Lebensmittelhilfeprogramms während eines Regierungs-Shutdowns angeordnet, obwohl die Regierung ihre Nutzung zunächst ablehnte?"
+    },
+    {
+        "a": "Das Embargo war bereits von allen EU-Mitgliedstaaten umgesetzt worden.",
+        "b": "Vorschläge für ein Embargo wurden vorbereitet und sollten in der folgenden Woche vom Rat geprüft werden.",
+        "c": "Die Einführung des Embargos wurde aufgrund von Bedenken hinsichtlich der Versorgungssicherheit vorerst auf unbestimmte Zeit verschoben.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/syrienresolution-ts-102.html",
+        "question": "Zum Zeitpunkt der Berichterstattung, welche Entwicklung kennzeichnete die geplanten Sanktionen der Europäischen Union bezüglich syrischer Rohölimporte?"
+    },
+    {
+        "a": "Eine sofortige Ausweitung des Konflikts auf benachbarte Staaten, die eine regionale Eskalation zur Folge hätte.",
+        "b": "Eine Stärkung des iranischen Entschlusses, Atomwaffen zu entwickeln, wodurch das Problem in der Zukunft erneut aufgeworfen würde.",
+        "c": "Eine Schwächung der internationalen Sanktionen aufgrund mangelnder globaler Unterstützung für den Militärschlag.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/ausland/interviewriecke-ts-100.html",
+        "question": "Welche langfristige Auswirkung einer militärischen Intervention zur Zerstörung iranischer Atomanlagen sieht der Sicherheitsexperte als besonders kontraproduktiv im Hinblick auf Teherans Nuklearprogramm?"
+    },
+    {
+        "a": "Die Vereinfachung von Genehmigungsverfahren und die Anpassung der Regeln für die Verkabelung von Mehrparteienhäusern.",
+        "b": "Die Einführung einer direkten Subventionierung für private Glasfaseranschlüsse und eine staatliche Informationskampagne zur technischen Überlegenheit.",
+        "c": "Die Festlegung strenger Ausbauquoten für Telekommunikationsunternehmen und die Implementierung eines verpflichtenden Umstiegsdatums für Endkunden.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/verbraucher/glasfaser-internet-deutsche-100.html",
+        "question": "Welche primären strategischen Ansätze verfolgt das zuständige Bundesministerium zur Förderung des Glasfaserausbaus in Deutschland, während es gleichzeitig eine zwangsweise Stilllegung älterer Netzwerke vorerst ablehnt?"
+    },
+    {
+        "a": "Die Einführung einer nationalen Anleihe, die ausschließlich von griechischen Bürgern gezeichnet werden konnte.",
+        "b": "Ein freiwilliger Erlass von 50 Prozent der Forderungen durch private Gläubiger.",
+        "c": "Die Umwandlung eines Teils der Staatsschulden in Staatsbeteiligungen an privaten Unternehmen.",
+        "correct_answer": "b",
+        "id": "https://www.tagesschau.de/wirtschaft/griechenland-ts-262.html",
+        "question": "Welche zusätzliche spezifische Maßnahme, jenseits von Kürzungen und Steuererhöhungen, war im griechischen Haushaltsplan für 2012 vorgesehen, um die enormen Staatsschulden zu reduzieren?"
+    },
+    {
+        "a": "Die Möglichkeit, kritische Medieninhalte als Falschmeldungen mit langjährigen Haftstrafen zu belegen und die unbegrenzte Dauer der Notstandsbefugnisse.",
+        "b": "Die vollständige Privatisierung staatlicher Unternehmen zur Stärkung der Wirtschaft in der Krise, ohne parlamentarische Zustimmung.",
+        "c": "Die Einführung einer dauerhaften Militärregierung zur Aufrechterhaltung der Ordnung, die die zivile Verwaltung ersetzt.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/kommentar/eu-ungarn-orban-corona-101.html",
+        "question": "Welches spezifische Merkmal der Notstandsgesetze in einem EU-Land, die während einer Krise erlassen wurden, wird laut kritischen Beobachtern als gravierende Abweichung von demokratischen Prinzipien angesehen, insbesondere im Hinblick auf deren zeitliche Geltung und die Bestrafung von Kritik?"
+    },
+    {
+        "a": "Die Lufthansa behauptete, die EU-Kommission habe die Übernahme klar als nicht genehmigungsfähig signalisiert, wohingegen die Kommission erklärte, noch keine endgültige Entscheidung getroffen zu haben und der Lufthansa vorwarf, eine unternehmerische Entscheidung zu vertuschen.",
+        "b": "Die EU-Kommission forderte die Abgabe eines Großteils der Niki-Flotte an Konkurrenten, was die Lufthansa kategorisch ablehnte und als wirtschaftlich unzumutbar einstufte.",
+        "c": "Die Lufthansa lehnte die Auflage der EU-Kommission ab, Niki nach der Übernahme als eigenständige Marke weiterzuführen, um Wettbewerbsverzerrungen zu vermeiden.",
+        "correct_answer": "a",
+        "id": "https://www.tagesschau.de/wirtschaft/niki-wirtschaftspolitik-101.html",
+        "question": "Welche wesentliche Uneinigkeit kennzeichnete laut dem Artikel die Kommunikation zwischen der EU-Kommission und der Lufthansa bezüglich der geplanten Übernahme von Niki, die zum Rückzug des Lufthansa-Angebots führte?"
+    }
+]

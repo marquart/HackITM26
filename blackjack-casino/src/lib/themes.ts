@@ -1,0 +1,98 @@
+// ===== Shop Themes =====
+
+import type { ShopTheme } from './types';
+
+export const SHOP_THEMES: ShopTheme[] = [
+  {
+    id: 'classic-green',
+    name: 'Classic Green',
+    description: 'Der klassische grüne Casino-Filz. Zeitlos und elegant.',
+    price: 0,
+    feltColor: '#1a6b37',
+    feltGradient: 'radial-gradient(ellipse at center, #1e7a3f 0%, #145a2d 40%, #0f4422 80%, #0a3318 100%)',
+    borderColor: '#8b6914',
+    accentColor: '#d4a843',
+    preview: 'linear-gradient(135deg, #1a6b37, #0f4422)',
+  },
+  {
+    id: 'luxury-black-gold',
+    name: 'Luxury Black & Gold',
+    description: 'Dunkler Luxus mit goldenen Akzenten. Für den anspruchsvollen Spieler.',
+    price: 1000,
+    feltColor: '#1a1a1a',
+    feltGradient: 'radial-gradient(ellipse at center, #2a2a2a 0%, #1a1a1a 40%, #111111 80%, #0a0a0a 100%)',
+    borderColor: '#d4a843',
+    accentColor: '#f0d78c',
+    preview: 'linear-gradient(135deg, #1a1a1a, #333, #d4a843)',
+  },
+  {
+    id: 'royal-blue',
+    name: 'Royal Blue Casino',
+    description: 'Königliches Blau für wahre Royals. Stilvoll und souverän.',
+    price: 2000,
+    feltColor: '#1a2a6b',
+    feltGradient: 'radial-gradient(ellipse at center, #1e3a7a 0%, #152d5a 40%, #0f2044 80%, #0a1533 100%)',
+    borderColor: '#c0c0c0',
+    accentColor: '#87ceeb',
+    preview: 'linear-gradient(135deg, #1a2a6b, #0f2044)',
+  },
+  {
+    id: 'neon-vip',
+    name: 'Neon VIP Casino',
+    description: 'Neon-Lichter und VIP-Atmosphäre. Die Zukunft des Casinos.',
+    price: 3000,
+    feltColor: '#0d0d2b',
+    feltGradient: 'radial-gradient(ellipse at center, #1a1a3e 0%, #0d0d2b 40%, #090920 80%, #050515 100%)',
+    borderColor: '#00ffcc',
+    accentColor: '#ff00ff',
+    preview: 'linear-gradient(135deg, #0d0d2b, #1a1a3e, #00ffcc)',
+  },
+  {
+    id: 'red-velvet',
+    name: 'Red Velvet Premium',
+    description: 'Samtrotes Premium-Feeling. Wie in Monte Carlo.',
+    price: 4000,
+    feltColor: '#5a1a1a',
+    feltGradient: 'radial-gradient(ellipse at center, #6b2020 0%, #5a1a1a 40%, #441414 80%, #330f0f 100%)',
+    borderColor: '#d4a843',
+    accentColor: '#ff6b6b',
+    preview: 'linear-gradient(135deg, #5a1a1a, #330f0f)',
+  },
+  {
+    id: 'high-roller-diamond',
+    name: 'High Roller Diamond',
+    description: 'Diamant-Glitzer für High Roller. Exklusiv und blendend.',
+    price: 5000,
+    feltColor: '#1a1a2e',
+    feltGradient: 'radial-gradient(ellipse at center, #25254a 0%, #1a1a2e 40%, #121228 80%, #0a0a1a 100%)',
+    borderColor: '#e0e0e0',
+    accentColor: '#b0c4de',
+    preview: 'linear-gradient(135deg, #1a1a2e, #444, #e0e0e0)',
+  },
+  {
+    id: 'midnight-emerald',
+    name: 'Midnight Emerald',
+    description: 'Mitternachts-Smaragd. Tiefes Grün trifft auf dunkle Eleganz.',
+    price: 6000,
+    feltColor: '#0a2e1a',
+    feltGradient: 'radial-gradient(ellipse at center, #0f3d22 0%, #0a2e1a 40%, #072215 80%, #051a10 100%)',
+    borderColor: '#50c878',
+    accentColor: '#00ff7f',
+    preview: 'linear-gradient(135deg, #0a2e1a, #072215, #50c878)',
+  },
+  {
+    id: 'arctic-frost',
+    name: 'Arctic Frost',
+    description: 'Eisige Kühle für kühle Köpfe. Erfrischend anders.',
+    price: 7000,
+    feltColor: '#1a2a3a',
+    feltGradient: 'radial-gradient(ellipse at center, #1e3448 0%, #1a2a3a 40%, #14222e 80%, #0e1a22 100%)',
+    borderColor: '#87ceeb',
+    accentColor: '#e0f0ff',
+    preview: 'linear-gradient(135deg, #1a2a3a, #14222e, #87ceeb)',
+  },
+];
+
+export function getThemeById(id: string): ShopTheme {
+  return SHOP_THEMES.find((t) => t.id === id) ?? SHOP_THEMES[0];
+}

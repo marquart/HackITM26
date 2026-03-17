@@ -6,5 +6,9 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "beautifulsoup4>=4.14.3",
+    "google-gemini-request-maker",
     "requests>=2.32.5",
 ]
+
+[tool.uv.sources]
+google-gemini-request-maker = { git = "https://gitlab.ard.de/dra/automatisierung/python_packages/google-gemini-request-maker.git", branch = "batch-API" }
