@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "Welche Arten von Rundfunk gibt es in Deutschland?",
+    "answers": {
+      "a": "Öffentlich-rechtlich und privat",
+      "b": "Nur staatlich",
+      "c": "Nur privat"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "id": 2,
+    "question": "Welche Sender gehören zum öffentlich-rechtlichen Rundfunk?",
+    "answers": {
+      "a": "RTL und Sat.1",
+      "b": "ARD und ZDF",
+      "c": "ProSieben und VOX"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Wie finanzieren sich private Fernsehsender hauptsächlich?",
+    "answers": {
+      "a": "Rundfunkbeitrag",
+      "b": "Werbung",
+      "c": "Spenden"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Welche Aufgabe hat der öffentlich-rechtliche Rundfunk?",
+    "answers": {
+      "a": "Gewinn erzielen",
+      "b": "Bevölkerung informieren, bilden und unterhalten",
+      "c": "Nur Nachrichten senden"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Wer muss in Deutschland den Rundfunkbeitrag zahlen?",
+    "answers": {
+      "a": "Nur Unternehmen",
+      "b": "Jeder Haushalt",
+      "c": "Nur Rentner"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Welche Institution legt den Rundfunkbeitrag fest?",
+    "answers": {
+      "a": "Bundestag",
+      "b": "KEF (Kommission zur Ermittlung des Finanzbedarfs)",
+      "c": "Bundesrat"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Was ist ein duales Rundfunksystem?",
+    "answers": {
+      "a": "Zwei Fernseher pro Haushalt",
+      "b": "Öffentlich-rechtlicher und privater Rundfunk nebeneinander",
+      "c": "Zwei Radiosender pro Region"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Welche Aufgabe haben Landesmedienanstalten?",
+    "answers": {
+      "a": "Programme produzieren",
+      "b": "Private Sender kontrollieren und zulassen",
+      "c": "Rundfunkbeiträge einziehen"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Was bedeutet „Rundfunkfreiheit“?",
+    "answers": {
+      "a": "Jeder darf senden, was er will",
+      "b": "Staat darf Inhalte bestimmen",
+      "c": "Medien sollen unabhängig berichten können"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "id": 10,
+    "question": "Welche Plattform gehört NICHT zum klassischen Rundfunk?",
+    "answers": {
+      "a": "Fernsehen",
+      "b": "Radio",
+      "c": "YouTube"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "id": 11,
+    "question": "Was ist der Unterschied zwischen linearem und nicht-linearem Rundfunk?",
+    "answers": {
+      "a": "Kein Unterschied",
+      "b": "Linear = feste Sendezeiten, nicht-linear = jederzeit abrufbar",
+      "c": "Linear = Internet, nicht-linear = Fernsehen"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 12,
+    "question": "Welche Aufgabe erfüllt die Medienaufsicht in Deutschland?",
+    "answers": {
+      "a": "Werbung erstellen",
+      "b": "Inhalte kontrollieren und Jugendschutz sichern",
+      "c": "Nachrichten produzieren"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 13,
+    "question": "Welche Rolle spielt Werbung im öffentlich-rechtlichen Rundfunk?",
+    "answers": {
+      "a": "Hauptfinanzierung",
+      "b": "Keine Rolle",
+      "c": "Nur begrenzt erlaubt"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "id": 14,
+    "question": "Was ist ein Programmauftrag?",
+    "answers": {
+      "a": "Vertrag mit Werbekunden",
+      "b": "Gesetzlicher Auftrag zur Gestaltung des Programms",
+      "c": "Lizenz für Streamingdienste"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "Warum gibt es öffentlich-rechtlichen Rundfunk?",
+    "answers": {
+      "a": "Um Gewinne zu maximieren",
+      "b": "Um unabhängige und vielfältige Informationen sicherzustellen",
+      "c": "Um private Sender zu ersetzen"
+    },
+    "correct_answer": "b"
+  }
+]
